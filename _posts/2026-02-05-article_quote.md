@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beautiful writing in journal articles"
+title: "Artful Writing in Scientific Papers"
 date: 2026-02-05
 categories: general
 ---
