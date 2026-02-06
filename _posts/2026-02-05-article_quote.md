@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Artful Writing in Scientific Papers"
+title: "Artful writing in scientific papers"
 date: 2026-02-05
 categories: general
 ---
