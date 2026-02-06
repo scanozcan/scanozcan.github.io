@@ -274,3 +274,17 @@ pre, code {
 .site-title:empty {
   display: none;
 }
+
+/* Ensure navigation is always visible */
+.site-nav {
+  display: block !important;
+}
+
+.trigger {
+  display: flex !important;
+}
+
+.page-link {
+  display: inline-block !important;
+  opacity: 1 !important;
+}
