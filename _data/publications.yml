@@ -131,7 +131,7 @@
     doi: "#"
 
 - type: "congress"
-  title: "A Deep Learning Model for Automated Segmentation of Fluorescence Cell Images"
+  title: "A deep learning model for automated segmentation of fluorescence cell images"
   authors: "Aydın M, Kiraz B, Eren F, Uysallı Y, Morova B, Ozcan SC, Acilan C, Kiraz A"
   venue: "Journal of Physics: Conference Series"
   year: 2022
