@@ -18,6 +18,14 @@
   links:
     pdf: "#"
 
+- title: "Genomic deletion of PFKFB2 sensitizes pancreatic cancer cells to ferroptosis induction"
+  authors: "Altunok TH, Ozcan SC et al."
+  venue: "Research"
+  year: 2026
+  type: currents
+  links:
+    pdf: "#"
+
 
 # Publications data file for Jekyll site
 # Organized by type: article, preprint, review, currents, congress
