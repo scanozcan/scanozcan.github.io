@@ -18,11 +18,7 @@ permalink: /
 
 I am currently a researcher at the SRSP Lab in Columbia University, where I use highly multiplexed CRISPR screens to investigate mammalian regeneration in skin wounds. My expertise also spans cancer biology & metabolism, chromosomal instability, proximity proteomics, and the epigenetic regulation of stem cell differentiation.
 
-I love fooling around with plasmids and DNA sequences!
-
-I am passionate about exploring diverse scientific datasets.
-
-Looking ahead, I aim to apply evolutionary game theory to understand cellular decisions in cancer and tissue biology.
+I love fooling around with plasmids and DNA sequences! I also like exploring diverse datasets. Looking ahead, I aim to apply evolutionary game theory to understand cellular decision making in cancer and tissue biology.
 
 ## Work Experience
 
@@ -36,7 +32,6 @@ Looking ahead, I aim to apply evolutionary game theory to understand cellular de
 
 - **Ph.D. in Biochemistry**, Uludag University *(2012 – 2018)*
 - **D.V.M**, Uludag University *(2006 – 2011)*
-
 
 ## Skills & Interests
 
@@ -162,12 +157,11 @@ Looking ahead, I aim to apply evolutionary game theory to understand cellular de
 
 ## News
 
-- **[Month Year]**: [Recent news item, e.g., "Paper accepted at Conference X"]
-- **[Month Year]**: [Another news item]
+**January 2026**: Our preprint on the metabolic dependencies of cells with centrosome amplification was published on bioRxiv.  
+**January 2026**: Our preprint detailing the cell-cycle-dependent interactome of Nek2 was published on bioRxiv.
 
-
-- **Office**: [Building Name, Room Number]
-- **Address**: [University Address]
+**Office**: Russ Berrie Pavilion, Room 602  
+**Address**: 1150 St. Nicholas Ave, New York, NY 10032
 
 <!-- Social Links - Now with your custom Bluesky SVG -->
 <div style="margin-top: 20px; clear: both; display: flex; gap: 20px; flex-wrap: wrap; align-items: center;" class="icon-container">
