@@ -3,37 +3,13 @@
 
   <div class="wrapper">
     <h2 class="footer-heading">{{ site.title | escape }}</h2>
-    
-    <div class="footer-content">
-      <!-- Author Info -->
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          {%- if site.author -%}
-            <li class="p-name">{{ site.author | escape }}</li>
-          {%- else -%}
-            <li class="p-name">{{ site.title | escape }}</li>
-          {%- endif -%}
-          
-          {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-          {%- endif -%}
-        </ul>
-      </div>
       
-      <!-- Social Links -->
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
-      </div>
+      <p class="footer-description">{{- site.description | escape -}}</p>
       
-      <!-- Description -->
-      <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
-      </div>
-      
-      <!-- Optional Copyright -->
-      <div class="footer-copyright">
-        <p>&copy; {{ site.time | date: '%Y' }} {{ site.author | default: site.title }}</p>
-      </div>
+      <!-- Optional: Add copyright -->
+      <p class="footer-copyright">
+        &copy; {{ site.time | date: '%Y' }}
+      </p>
     </div>
   </div>
 </footer>
