@@ -11,4 +11,4 @@ I admire scientific writing that incorporates cultural references. Here's a grea
 
 The reference to *"everything, everywhere, all at once"*—echoing the [2022 film](https://www.imdb.com/title/tt6710474/)—makes a complex biological process immediately relatable. It shows how thoughtful writing can bridge science and art while maintaining precision.
 
-Simple touches like this make academic writing more memorable and accessible.
+Simple touches like this make academic writing more memorable.
