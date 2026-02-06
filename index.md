@@ -99,9 +99,9 @@ I am passionate about exploring diverse scientific datasets. Looking ahead, I ai
     <div style="margin-bottom: 4px;">
       <div style="font-size: 0.95em; margin-bottom: 2px; font-weight: 500;">Hiking & Photography</div>
       <div style="display: flex; gap: 6px;">
-        <span style="color: #eeac02; font-size: 1.3em;">●</span>
-        <span style="color: #eeac02; font-size: 1.3em;">●</span>
-        <span style="color: #eeac02; font-size: 1.3em;">●</span>
+        <span style="color: #e7880b; font-size: 1.3em;">●</span>
+        <span style="color: #e7880b; font-size: 1.3em;">●</span>
+        <span style="color: #e7880b; font-size: 1.3em;">●</span>
         <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
         <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
       </div>
@@ -111,11 +111,11 @@ I am passionate about exploring diverse scientific datasets. Looking ahead, I ai
     <div style="margin-bottom: 4px;">
       <div style="font-size: 0.95em; margin-bottom: 2px; font-weight: 500;">Cats & Dogs</div>
       <div style="display: flex; gap: 6px;">
-        <span style="color: #eeac02; font-size: 1.3em;">●</span>
-        <span style="color: #eeac02; font-size: 1.3em;">●</span>
-        <span style="color: #eeac02; font-size: 1.3em;">●</span>
-        <span style="color: #eeac02; font-size: 1.3em;">●</span>
-        <span style="color: #eeac02; font-size: 1.3em;">●</span>
+        <span style="color: #e7880b; font-size: 1.3em;">●</span>
+        <span style="color: #e7880b; font-size: 1.3em;">●</span>
+        <span style="color: #e7880b; font-size: 1.3em;">●</span>
+        <span style="color: #e7880b; font-size: 1.3em;">●</span>
+        <span style="color: #e7880b; font-size: 1.3em;">●</span>
       </div>
     </div>
     
@@ -123,10 +123,10 @@ I am passionate about exploring diverse scientific datasets. Looking ahead, I ai
     <div style="margin-bottom: 4px;">
       <div style="font-size: 0.95em; margin-bottom: 2px; font-weight: 500;">Classical Music & Piano</div>
       <div style="display: flex; gap: 6px;">
-        <span style="color: #eeac02; font-size: 1.3em;">●</span>
-        <span style="color: #eeac02; font-size: 1.3em;">●</span>
-        <span style="color: #eeac02; font-size: 1.3em;">●</span>
-        <span style="color: #eeac02; font-size: 1.3em;">●</span>
+        <span style="color: #e7880b; font-size: 1.3em;">●</span>
+        <span style="color: #e7880b; font-size: 1.3em;">●</span>
+        <span style="color: #e7880b; font-size: 1.3em;">●</span>
+        <span style="color: #e7880b; font-size: 1.3em;">●</span>
         <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
       </div>
     </div>
@@ -135,9 +135,9 @@ I am passionate about exploring diverse scientific datasets. Looking ahead, I ai
     <div style="margin-bottom: 4px;">
       <div style="font-size: 0.95em; margin-bottom: 2px; font-weight: 500;">Art Films</div>
       <div style="display: flex; gap: 6px;">
-        <span style="color: #eeac02; font-size: 1.3em;">●</span>
-        <span style="color: #eeac02; font-size: 1.3em;">●</span>
-        <span style="color: #eeac02; font-size: 1.3em;">●</span>
+        <span style="color: #e7880b; font-size: 1.3em;">●</span>
+        <span style="color: #e7880b; font-size: 1.3em;">●</span>
+        <span style="color: #e7880b; font-size: 1.3em;">●</span>
         <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
         <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
       </div>
