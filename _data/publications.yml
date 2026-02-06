@@ -2,7 +2,7 @@
 # Types: unpublished, preprint, article, review
 
 # Currently working on
-- title: "Stress adaptation as evolutionary game switches in cancer"
+- title: "Stress adaptation as evolutionary game switch strategies in cancer"
   authors: "Ozcan SC"
   venue: "Review"
   year: 2027
@@ -119,7 +119,7 @@
   links:
     doi: "https://doi.org/10.3390/cancers14020442"
 
-# Conference Papers
+# Select Conference Papers
 - type: "congress"
   title: "Identification of Chromatin Regulators Required for Enucleation"
   authors: "Goksel E, Ozcan SC, Kayabolen A, Yalcin O"

@@ -18,7 +18,7 @@ permalink: /
 
 I am currently a researcher at the **[SRSP Lab](https://woappilab.com)** at **[Columbia University](https://www.columbia.edu)**, where I use highly multiplexed CRISPR screens to investigate mammalian regeneration in skin wounds. My expertise also spans cancer biology & metabolism, chromosomal instability, proximity proteomics, and the epigenetic regulation of stem cell differentiation.
 
-I love fooling around with plasmids and DNA sequences! I also enjoy exploring diverse datasets. Looking ahead, I aim to apply evolutionary game theory to understand cellular decision-making in cancer and tissue biology.
+I love fooling around with plasmids and DNA sequences! I also enjoy exploring diverse datasets. Looking ahead, I aim to apply evolutionary game theory to understand cellular decision-making and cell-cell communication in cancer and tissue biology.
 
 ## Work Experience
 
