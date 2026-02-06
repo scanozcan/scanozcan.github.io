@@ -16,7 +16,7 @@ permalink: /
 
 ### Cancer Biology | Forward Genomics | Regeneration | Data Analysis
 
-I am currently a researcher at the SRSP Lab, where I use highly multiplexed CRISPR screens to investigate mammalian regeneration in skin wounds. My expertise also spans cancer metabolism, chromosomal instability, proximity proteomics, and the epigenetic regulation of stem cell differentiation.
+I am currently a researcher at the SRSP Lab, where I use highly multiplexed CRISPR screens to investigate mammalian regeneration in skin wounds. My expertise also spans cancer metabolism, chromosomal instability, proximity proteomics, and the epigenetic regulation of stem cell differentiation. I love fooling around with plasmids!
 
 I am passionate about exploring diverse scientific datasets. Looking ahead, I aim to apply evolutionary game theory to understand cancer cell biology.
 
