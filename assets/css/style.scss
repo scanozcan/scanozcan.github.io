@@ -288,3 +288,13 @@ pre, code {
   display: inline-block !important;
   opacity: 1 !important;
 }
+
+/* Hide the site title on the left */
+.site-title {
+  display: none !important;
+}
+
+/* Optional: Adjust spacing after hiding title */
+.site-header .wrapper {
+  justify-content: flex-end;
+}
