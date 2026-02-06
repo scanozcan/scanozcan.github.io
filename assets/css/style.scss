@@ -260,3 +260,18 @@ pre, code {
   }
 }
 
+/* Hide ONLY the site title text/logo on left, keep navigation normal */
+header .site-title {
+  display: none !important;
+}
+
+/* Ensure navigation stays normal size */
+.site-nav .page-link {
+  font-size: 16px !important; /* Or whatever size you want */
+  padding: 5px 10px !important;
+}
+
+/* Make sure nav container takes full width */
+.site-header .wrapper {
+  justify-content: flex-end !important;
+}
