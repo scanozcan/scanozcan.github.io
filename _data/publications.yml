@@ -2,7 +2,7 @@
 # Types: unpublished, preprint, article, review
 
 # Currently working on
-- title: "Stress adaptation as an evolutionary game in cancer"
+- title: "Stress adaptation as an evolutionary game switcher in cancer"
   authors: "Ozcan SC"
   venue: "Review"
   year: 2027
@@ -18,7 +18,7 @@
   links:
     pdf: "#"
 
-- title: "Genomic deletion of PFKFB2 sensitizes pancreatic cancer cells to ferroptosis induction"
+- title: "PFKFB2 protects pancreatic cancer cells from ferroptosis"
   authors: "Altunok TH, Ozcan SC et al."
   venue: "Research"
   year: 2026
