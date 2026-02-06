@@ -259,3 +259,18 @@ pre, code {
     height: 210px;
   }
 }
+
+/* Hide page title on homepage */
+.home .page-heading {
+  display: none;
+}
+
+/* Hide site title in header */
+.site-title {
+  display: none !important;
+}
+
+/* Or if you want to keep link but hide text */
+.site-title:empty {
+  display: none;
+}
