@@ -1,0 +1,298 @@
+---
+layout: home
+title: About
+permalink: /
+---
+
+<!-- Academicons for academic icons -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css">
+<!-- Font Awesome for remaining icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+<!-- Profile photo - replace with your image -->
+<img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Profile Photo" style="float: right; margin-left: 20px; margin-bottom: 10px; width: 200px; border-radius: 8px;">
+
+# Selahattin Can Özcan
+
+### Cancer Biology | Forward Genomics | Regeneration | Data Analysis
+
+I am currently a researcher at the SRSP Lab, where I use highly multiplexed CRISPR screens to investigate mammalian regeneration in skin wounds. My expertise also spans cancer metabolism, chromosomal instability, proximity proteomics, and the epigenetic regulation of stem cell differentiation.
+
+I am passionate about exploring diverse scientific datasets. Looking ahead, I aim to apply evolutionary game theory to understand cancer cell biology.
+
+## Work Experience
+
+- **Associate Research Scientist**, SRSP Lab, Columbia University *(Oct 2025 – Present)*
+- **Postdoctoral Researcher**, Chio Lab, Columbia University *(Feb 2024 – Sep 2025)*
+- **Postdoctoral Researcher**, CAA Lab, Koç University *(Aug 2019 – Dec 2023)*
+- **Visiting Researcher**, Chesney Lab, University of Louisville *(Jul 2014 – Apr 2015)*
+- **Research Assistant**, Biochemistry Dept., Uludag University *(Jan 2012 – Sep 2018)*
+
+## Education
+
+- **Ph.D. in Biochemistry**, Uludag University *(2012 – 2018)*
+- **D.V.M**, Uludag University *(2006 – 2011)*
+
+
+## Skills & Interests
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px; margin-bottom: 30px;">
+  
+  <!-- Left Column: Technical Skills -->
+  <div>
+    <h3 style="margin-top: 0; margin-bottom: 15px; color: #2c3e50;">Technical Skills</h3>
+    
+    <!-- Wet lab -->
+    <div style="margin-bottom: 4px;">
+      <div style="font-size: 0.95em; margin-bottom: 2px; font-weight: 500;">Wet lab</div>
+      <div style="display: flex; gap: 6px;">
+        <span style="color: #2ecc71; font-size: 1.3em;">●</span>
+        <span style="color: #2ecc71; font-size: 1.3em;">●</span>
+        <span style="color: #2ecc71; font-size: 1.3em;">●</span>
+        <span style="color: #2ecc71; font-size: 1.3em;">●</span>
+        <span style="color: #2ecc71; font-size: 1.3em;">●</span>
+      </div>
+    </div>
+    
+    <!-- Teaching -->
+    <div style="margin-bottom: 4px;">
+      <div style="font-size: 0.95em; margin-bottom: 2px; font-weight: 500;">Teaching</div>
+      <div style="display: flex; gap: 6px;">
+        <span style="color: #2ecc71; font-size: 1.3em;">●</span>
+        <span style="color: #2ecc71; font-size: 1.3em;">●</span>
+        <span style="color: #2ecc71; font-size: 1.3em;">●</span>
+        <span style="color: #2ecc71; font-size: 1.3em;">●</span>
+        <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
+      </div>
+    </div>
+    
+    <!-- Python -->
+    <div style="margin-bottom: 4px;">
+      <div style="font-size: 0.95em; margin-bottom: 2px; font-weight: 500;">Python</div>
+      <div style="display: flex; gap: 6px;">
+        <span style="color: #2ecc71; font-size: 1.3em;">●</span>
+        <span style="color: #2ecc71; font-size: 1.3em;">●</span>
+        <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
+        <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
+        <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
+      </div>
+    </div>
+    
+    <!-- R & RStudio -->
+    <div style="margin-bottom: 4px;">
+      <div style="font-size: 0.95em; margin-bottom: 2px; font-weight: 500;">R & RStudio</div>
+      <div style="display: flex; gap: 6px;">
+        <span style="color: #2ecc71; font-size: 1.3em;">●</span>
+        <span style="color: #2ecc71; font-size: 1.3em;">●</span>
+        <span style="color: #2ecc71; font-size: 1.3em;">●</span>
+        <span style="color: #2ecc71; font-size: 1.3em;">●</span>
+        <span style="color: #2ecc71; font-size: 1.3em;">●</span>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Right Column: Hobbies & Personal Interests -->
+  <div>
+    <h3 style="margin-top: 0; margin-bottom: 15px; color: #2c3e50;">Hobbies & Personal Interests</h3>
+    
+    <!-- Hiking & Photography -->
+    <div style="margin-bottom: 4px;">
+      <div style="font-size: 0.95em; margin-bottom: 2px; font-weight: 500;">Hiking & Photography</div>
+      <div style="display: flex; gap: 6px;">
+        <span style="color: #eeac02; font-size: 1.3em;">●</span>
+        <span style="color: #eeac02; font-size: 1.3em;">●</span>
+        <span style="color: #eeac02; font-size: 1.3em;">●</span>
+        <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
+        <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
+      </div>
+    </div>
+    
+    <!-- Cats & Dogs -->
+    <div style="margin-bottom: 4px;">
+      <div style="font-size: 0.95em; margin-bottom: 2px; font-weight: 500;">Cats & Dogs</div>
+      <div style="display: flex; gap: 6px;">
+        <span style="color: #eeac02; font-size: 1.3em;">●</span>
+        <span style="color: #eeac02; font-size: 1.3em;">●</span>
+        <span style="color: #eeac02; font-size: 1.3em;">●</span>
+        <span style="color: #eeac02; font-size: 1.3em;">●</span>
+        <span style="color: #eeac02; font-size: 1.3em;">●</span>
+      </div>
+    </div>
+    
+    <!-- Classical Music & Piano -->
+    <div style="margin-bottom: 4px;">
+      <div style="font-size: 0.95em; margin-bottom: 2px; font-weight: 500;">Classical Music & Piano</div>
+      <div style="display: flex; gap: 6px;">
+        <span style="color: #eeac02; font-size: 1.3em;">●</span>
+        <span style="color: #eeac02; font-size: 1.3em;">●</span>
+        <span style="color: #eeac02; font-size: 1.3em;">●</span>
+        <span style="color: #eeac02; font-size: 1.3em;">●</span>
+        <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
+      </div>
+    </div>
+    
+    <!-- Art Films -->
+    <div style="margin-bottom: 4px;">
+      <div style="font-size: 0.95em; margin-bottom: 2px; font-weight: 500;">Art Films</div>
+      <div style="display: flex; gap: 6px;">
+        <span style="color: #eeac02; font-size: 1.3em;">●</span>
+        <span style="color: #eeac02; font-size: 1.3em;">●</span>
+        <span style="color: #eeac02; font-size: 1.3em;">●</span>
+        <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
+        <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+@media (max-width: 768px) {
+  div[style*="grid-template-columns: 1fr 1fr"] {
+    grid-template-columns: 1fr !important;
+    gap: 20px !important;
+  }
+}
+</style>
+
+
+
+## News
+
+- **[Month Year]**: [Recent news item, e.g., "Paper accepted at Conference X"]
+- **[Month Year]**: [Another news item]
+
+
+- **Office**: [Building Name, Room Number]
+- **Address**: [University Address]
+
+<!-- Social Links - Now with your custom Bluesky SVG -->
+<div style="margin-top: 20px; clear: both; display: flex; gap: 20px; flex-wrap: wrap; align-items: center;" class="icon-container">
+  
+  <!-- Email - Font Awesome -->
+  <a href="mailto:so2716@cumc.columbia.edu" style="text-decoration: none; color: inherit;" title="Email">
+    <i class="fas fa-envelope"></i>
+  </a>
+  
+  <!-- Google Scholar - Academicons -->
+  <a href="https://scholar.google.com.tr/citations?user=VIo4te8AAAAJ&hl=en" style="text-decoration: none; color: inherit;" title="Google Scholar">
+    <i class="ai ai-google-scholar"></i>
+  </a>
+  
+  <!-- ORCID - Academicons -->
+  <a href="https://orcid.org/0000-0003-1733-4288" style="text-decoration: none; color: inherit;" title="ORCID">
+    <i class="ai ai-orcid"></i>
+  </a>
+  
+  <!-- GitHub - Font Awesome -->
+  <a href="https://github.com/scanozcan" style="text-decoration: none; color: inherit;" title="GitHub">
+    <i class="fab fa-github"></i>
+  </a>
+  
+  <!-- LinkedIn - Font Awesome -->
+  <a href="https://www.linkedin.com/" style="text-decoration: none; color: inherit;" title="LinkedIn">
+    <i class="fab fa-linkedin"></i>
+  </a>
+  
+  <!-- Bluesky - Your custom SVG (fixed to inherit color) -->
+  <a href="https://bsky.app/profile/ozcansc.bsky.social" style="text-decoration: none; color: inherit;" title="Bluesky">
+    <svg width="24" height="24" viewBox="0 0 40 40" fill="currentColor" style="vertical-align: middle;">
+      <path d="M11.143 2.153c4.19 3.123 8.703 9.453 10.357 12.85 1.654-3.397 6.167-9.727 10.357-12.85 3.026-2.255 7.924-3.999 7.924 1.552 0 5.55-.637 9.306-1.017 10.64-1.306 4.632-6.064 5.807-10.293 5.091 7.397 1.246 9.276 5.385 5.214 9.524-7.718 7.856-11.09-1.974-11.953-4.49-.161-.46-.232-.677-.232-.492 0-.186-.077.032-.232.491-.862 2.517-4.235 12.347-11.954 4.49-4.061-4.138-2.182-8.27 5.214-9.523-4.229.716-8.986-.466-10.292-5.09-.38-1.335-1.017-9.536-1.017-10.648 0-5.544 4.898-3.8 7.924-1.545Z"/>
+    </svg>
+  </a>
+  
+  <!-- Instagram - Font Awesome -->
+  <a href="https://www.instagram.com/scanozc?igsh=MXVlYWlmZ2oxNG1iMg%3D%3D&utm_source=qr" style="text-decoration: none; color: inherit;" title="Instagram">
+    <i class="fab fa-instagram"></i>
+  </a>
+  
+</div>
+
+<div style="clear: both;"></div>
+
+<style>
+  /* Icon styling - Unified for all icon types */
+  .icon-container i, .icon-container svg {
+    font-size: 28px;
+    width: 28px;
+    height: 28px;
+    transition: all 0.2s cubic-bezier(0.34, 1.56, 0.64, 1); /* Bouncy easing function */
+    vertical-align: middle;
+  }
+  
+  /* Academicons specific styling */
+  .ai {
+    font-family: 'Academicons' !important;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+  }
+  
+  /* Make Academicons match Font Awesome size better */
+  .ai-google-scholar, .ai-orcid {
+    font-size: 26px; /* Slight adjustment for visual balance */
+  }
+  
+  /* ORCID - inherits color from parent */
+  .ai-orcid {
+    color: inherit;
+  }
+  
+  /* Icon container hover effects - UNIFORM SCALING */
+  .icon-container a:hover i, .icon-container a:hover svg {
+    opacity: 0.9;
+    transform: scale(1.15); /* Expands equally in all directions */
+  }
+  
+  /* Brand color on hover - Academicons */
+  .icon-container a:hover .ai-google-scholar {
+    color: #4285F4; /* Google blue on hover */
+  }
+  
+  .icon-container a:hover .ai-orcid {
+    color: #A6CE39; /* ORCID green on hover */
+  }
+  
+  /* Brand color on hover - Font Awesome & SVG */
+  .icon-container a:hover .fa-envelope {
+    color: #EA4335; /* Gmail red */
+  }
+  
+  .icon-container a:hover .fa-github {
+    color: #6e5494; /* GitHub purple */
+  }
+  
+  .icon-container a:hover .fa-linkedin {
+    color: #0077b5; /* LinkedIn blue */
+  }
+  
+  .icon-container a:hover svg[viewBox="0 0 40 40"] {
+    color: #0285FF; /* Bluesky blue */
+  }
+  
+  .icon-container a:hover .fa-instagram {
+    color: #e4405f; /* Instagram pink */
+  }
+  
+  /* Default colors */
+  .icon-container i, .icon-container svg {
+    color: inherit; /* All icons inherit text color */
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    .icon-container {
+      gap: 15px;
+    }
+    .icon-container i, .icon-container svg {
+      font-size: 24px;
+      width: 24px;
+      height: 24px;
+    }
+    .ai-google-scholar, .ai-orcid {
+      font-size: 22px;
+    }
+    /* Slightly smaller scale on mobile */
+    .icon-container a:hover i, .icon-container a:hover svg {
+      transform: scale(1.12);
+    }
+  }
+</style>

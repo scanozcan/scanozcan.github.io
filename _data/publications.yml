@@ -1,0 +1,169 @@
+# Publications data file
+# Types: unpublished, preprint, article, review
+
+# Currently working on
+- title: "Cancer as an Evolving Game of Stress Adaptation"
+  authors: "Ozcan SC"
+  venue: "Review"
+  year: 2027
+  type: currents
+  links:
+    pdf: "#"
+
+- title: "An epigenome targeted CRISPR screen identifies key stage-specific determinants of human erythropoiesis"
+  authors: "Goksel E, Ozcan SC et al."
+  venue: "Research"
+  year: 2026
+  type: currents
+  links:
+    pdf: "#"
+
+
+# Publications data file for Jekyll site
+# Organized by type: article, preprint, review, currents, congress
+
+# Research Articles
+- type: "article"
+  title: "Epidrug screening identifies type I PRMT inhibitors as modulators of lysosomal exocytosis and drug sensitivity in cancers"
+  authors: "Sergi B, Yuksel-Catal N, Ozcan SC, Syed H, Duvvuri U, Kiselyov K, Acilan C"
+  venue: "Cell Death & Disease"
+  year: 2025
+  volume: "16"
+  issue: "1"
+  pages: "600"
+  links:
+    doi: "https://doi.org/10.1038/s41419-025-07168-4"
+
+- type: "article"
+  title: "Nek2A prevents centrosome clustering and induces cell death in cancer cells via KIF2C interaction"
+  authors: "Kalkan BM, Ozcan SC, Cicek E, Gonen M, Acilan C"
+  venue: "Cell Death & Disease"
+  year: 2024
+  volume: "15"
+  issue: "3"
+  pages: "222"
+  links:
+    doi: "https://doi.org/10.1038/s41419-024-06590-0"
+
+- type: "article"
+  title: "Prolonged overexpression of PLK4 leads to formation of centriole rosette clusters that are connected via canonical centrosome linker proteins"
+  authors: "Ozcan SC, Kalkan BM, Cicek E, Canbaz AA, Acilan C"
+  venue: "Scientific Reports"
+  year: 2024
+  volume: "14"
+  issue: "1"
+  pages: "4370"
+  links:
+    doi: "https://doi.org/10.1038/s41598-024-54802-6"
+
+- type: "article"
+  title: "Simultaneous inhibition of PFKFB3 and GLS1 selectively kills KRAS-transformed pancreatic cells"
+  authors: "Ozcan SC, Mutlu A, Altunok TH, Gurpinar Y, Sarioglu A, Guler S, Muchut RJ, Iglesias AA, Celikler S, Campbell PM, et al."
+  venue: "Biochemical and Biophysical Research Communications"
+  year: 2021
+  volume: "571"
+  pages: "118-124"
+  links:
+    doi: "https://doi.org/10.1016/j.bbrc.2021.07.060"
+
+- type: "article"
+  title: "PFKFB2 regulates glycolysis and proliferation in pancreatic cancer cells"
+  authors: "Ozcan SC, Sarioglu A, Altunok TH, Akkoc A, Guzel S, Guler S, Imbert-Fernandez Y, Muchut RJ, Iglesias AA, Gurpinar Y, et al."
+  venue: "Molecular and Cellular Biochemistry"
+  year: 2020
+  volume: "470"
+  issue: "1"
+  pages: "115-129"
+  links:
+    doi: "https://doi.org/10.1007/s11010-020-03752-4"
+
+- type: "article"
+  title: "6-phosphofructo-2-kinase/fructose 2,6-bisphosphatase-3 is required for transforming growth factor β1-enhanced invasion of Panc1 cells in vitro"
+  authors: "Yalcin A, Solakoglu TH, Ozcan SC, Guzel S, Peker S, Celikler S, Balaban BD, Sevinc E, Gurpinar Y, Chesney JA"
+  venue: "Biochemical and Biophysical Research Communications"
+  year: 2017
+  volume: "484"
+  issue: "3"
+  pages: "687-693"
+  links:
+    doi: "https://doi.org/10.1016/j.bbrc.2017.01.153"
+
+- type: "article"
+  title: "6-Phosphofructo-2-kinase (PFKFB3) promotes cell cycle progression and suppresses apoptosis via Cdk1-mediated phosphorylation of p27"
+  authors: "Yalcin A, Clem BF, Imbert-Fernandez Y, Ozcan SC, Peker S, O'neal J, Klarer AC, Clem AL, Telang S, Chesney J"
+  venue: "Cell Death & Disease"
+  year: 2014
+  volume: "5"
+  issue: "7"
+  pages: "e1337-e1337"
+  links:
+    doi: "https://doi.org/10.1038/cddis.2014.292"
+
+# Review Articles
+- type: "review"
+  title: "Keep Calm and Carry on with Extra Centrosomes"
+  authors: "Kalkan BM, Ozcan SC, Quintyne NJ, Reed SL, Acilan C"
+  venue: "Cancers"
+  year: 2022
+  volume: "14"
+  issue: "2"
+  pages: "442"
+  links:
+    doi: "https://doi.org/10.3390/cancers14020442"
+
+# Conference Papers
+- type: "congress"
+  title: "Identification of Chromatin Regulators Required for Enucleation"
+  authors: "Goksel E, Ozcan SC, Kayabolen A, Yalcin O"
+  venue: "Blood"
+  year: 2023
+  volume: "142"
+  pages: "2445"
+  links:
+    doi: "#"
+
+- type: "congress"
+  title: "A Deep Learning Model for Automated Segmentation of Fluorescence Cell Images"
+  authors: "Aydın M, Kiraz B, Eren F, Uysallı Y, Morova B, Ozcan SC, Acilan C, Kiraz A"
+  venue: "Journal of Physics: Conference Series"
+  year: 2022
+  volume: "2191"
+  issue: "1"
+  pages: "012003"
+  links:
+    doi: "https://doi.org/10.1088/1742-6596/2191/1/012003"
+
+- type: "congress"
+  title: "Study of PFKFB2 isoforms in pancreatic duct cells transformed with mutant K-Ras"
+  authors: "Ozcan SC, Guzel S, Sevinc ED, Balaban BD, Chesney JA, Yalcin A"
+  venue: "FEBS Journal"
+  year: 2016
+  volume: "283"
+  pages: "186-186"
+  links:
+    doi: "#"
+
+# Pre-prints
+- type: "preprint"
+  title: "Stress adaptation pathways and HA-CD44 signaling maintain the survival of pancreatic cancer cells with centrosome amplification"
+  authors: "Ozcan SC, Goksel E, Kalkan BM, Cicek E, Kanevetci B, Acilan C"
+  venue: "bioRxiv"
+  year: 2026
+  links:
+    pdf: "https://www.biorxiv.org/content/10.1101/2026.01.xx.xxxxxx"
+
+- type: "preprint"
+  title: "Proximity labeling reveals cell cycle-specific NEK2 interactions and a regulatory axis controlling NUSAP1 stability"
+  authors: "Cicek E, Ozcan SC, Kanevetci B, Kalkan B, Ozkan NE, Ozlu N, Acilan C"
+  venue: "bioRxiv"
+  year: 2026
+  links:
+    pdf: "https://www.biorxiv.org/content/10.1101/2026.01.xx.xxxxxx"
+
+- type: "preprint"
+  title: "RESTRICT-seq enables time-gated CRISPR screens and uncovers novel epigenetic dependencies of SCC resistance"
+  authors: "Ozcan SC, Amador DG, Powers JA, Njiru AG, Ansari Z, Woappi Y"
+  venue: "bioRxiv"
+  year: 2025
+  links:
+    pdf: "https://www.biorxiv.org/content/10.1101/2025.xx.xx.xxxxxx"

@@ -1,0 +1,19 @@
+<div class="publication{% if pub.highlight %} publication-highlight{% endif %}">
+  <div class="pub-title">{{ pub.title }}</div>
+  <div class="pub-authors">{{ pub.authors }}</div>
+  <div class="pub-venue">{{ pub.venue }}, {{ pub.year }}</div>
+  <div class="pub-links">
+    {% if pub.links.pdf and pub.links.pdf != "#" %}
+      <a href="{{ pub.links.pdf }}" class="pub-link">[PDF]</a>
+    {% endif %}
+    {% if pub.links.doi and pub.links.doi != "#" %}
+      <a href="{{ pub.links.doi }}" class="pub-link">[DOI]</a>
+    {% endif %}
+    {% if pub.links.code and pub.links.code != "#" %}
+      <a href="{{ pub.links.code }}" class="pub-link">[Code]</a>
+    {% endif %}
+    {% if pub.links.slides and pub.links.slides != "#" %}
+      <a href="{{ pub.links.slides }}" class="pub-link">[Slides]</a>
+    {% endif %}
+  </div>
+</div>

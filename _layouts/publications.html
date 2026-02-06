@@ -1,0 +1,172 @@
+---
+layout: default
+---
+
+<article class="page">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+
+    {% assign currents = site.data.publications | where: "type", "currents" | sort: "year" | reverse %}
+    {% assign preprints = site.data.publications | where: "type", "preprint" | sort: "year" | reverse %}
+    {% assign articles = site.data.publications | where: "type", "article" | sort: "year" | reverse %}
+    {% assign reviews = site.data.publications | where: "type", "review" | sort: "year" | reverse %}
+    {% assign congress = site.data.publications | where: "type", "congress" | sort: "year" | reverse %}
+
+    <!-- Keep your original section order -->
+    {% if currents.size > 0 %}
+    <h2>Currently working on / unpublished</h2>
+    <div class="publications-grid">
+      {% for pub in currents %}
+        <div class="publication-item">
+          {% include publication.html pub=pub %}
+        </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    {% if preprints.size > 0 %}
+    <h2>Pre-prints</h2>
+    <div class="publications-grid">
+      {% for pub in preprints %}
+        <div class="publication-item">
+          {% include publication.html pub=pub %}
+        </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    {% if articles.size > 0 %}
+    <h2>Research Articles</h2>
+    <div class="publications-grid">
+      {% for pub in articles %}
+        <div class="publication-item">
+          {% include publication.html pub=pub %}
+        </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    {% if reviews.size > 0 %}
+    <h2>Reviews</h2>
+    <div class="publications-grid">
+      {% for pub in reviews %}
+        <div class="publication-item">
+          {% include publication.html pub=pub %}
+        </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    {% if congress.size > 0 %}
+    <h2>Conference Papers</h2>
+    <div class="publications-grid">
+      {% for pub in congress %}
+        <div class="publication-item">
+          {% include publication.html pub=pub %}
+        </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+</article>
+
+<style>
+  /* SIMPLE 2-COLUMN GRID - Top-left filling */
+  .publications-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+    margin-bottom: 40px;
+  }
+
+  /* Default: All items go in natural order (top-left first) */
+  .publication-item {
+    break-inside: avoid;
+  }
+
+  /* Simple responsive: stack on mobile */
+  @media (max-width: 768px) {
+    .publications-grid {
+      grid-template-columns: 1fr;
+      gap: 25px;
+    }
+  }
+</style>
+
+<style>
+  /* SIMPLE 2-COLUMN GRID - Top-left filling */
+  .publications-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+    margin-bottom: 40px;
+  }
+
+  /* Default: All items go in natural order (top-left first) */
+  .publication-item {
+    break-inside: avoid;
+  }
+
+  /* Simple responsive: stack on mobile */
+  @media (max-width: 768px) {
+    .publications-grid {
+      grid-template-columns: 1fr;
+      gap: 25px;
+    }
+  }
+
+  /* === ADD THIS SECTION FOR COMPACT SPACING === */
+  /* Reduce vertical spacing between publications */
+  .publication {
+    margin-bottom: 15px !important;
+    padding-bottom: 10px !important;
+  }
+  
+  /* Make titles more compact */
+  .pub-title {
+    margin-bottom: 4px !important;
+    line-height: 1.3 !important;
+    font-size: 1em !important;
+  }
+  
+  /* Make authors more compact */
+  .pub-authors {
+    margin-bottom: 3px !important;
+    line-height: 1.2 !important;
+    font-size: 0.9em !important;
+  }
+  
+  /* Make venue/year more compact */
+  .pub-venue {
+    margin-bottom: 5px !important;
+    line-height: 1.2 !important;
+    font-size: 0.85em !important;
+  }
+  
+  /* Make links smaller */
+  .pub-links {
+    font-size: 0.8em !important;
+  }
+  
+  /* Optional: Reduce grid vertical gap even more */
+  .publications-grid {
+    gap: 20px !important;
+  }
+  
+  /* Mobile adjustments */
+  @media (max-width: 768px) {
+    .publications-grid {
+      gap: 15px !important;
+    }
+    
+    .publication {
+      margin-bottom: 12px !important;
+      padding-bottom: 8px !important;
+    }
+  }
+  /* === END OF COMPACT SPACING SECTION === */
+</style>

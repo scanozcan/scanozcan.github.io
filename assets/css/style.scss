@@ -1,0 +1,239 @@
+---
+---
+
+@import "minima";
+
+// Custom styles for academic website
+
+// Color variables for light mode
+:root {
+  --bg-color: #ffffff;
+  --text-color: #111111;
+  --text-secondary: #555555;
+  --text-muted: #666666;
+  --border-color: #e8e8e8;
+  --link-color: #2a7ae2;
+  --highlight-bg: #f8f9fa;
+  --header-bg: #fdfdfd;
+  --code-bg: #f5f5f5;
+}
+
+// Dark mode colors
+[data-theme="dark"] {
+  --bg-color: #1a1a2e;
+  --text-color: #eaeaea;
+  --text-secondary: #b8b8b8;
+  --text-muted: #a0a0a0;
+  --border-color: #3a3a5a;
+  --link-color: #6db3f2;
+  --highlight-bg: #252545;
+  --header-bg: #16162a;
+  --code-bg: #252545;
+}
+
+// Apply theme colors globally
+body {
+  background-color: var(--bg-color) !important;
+  color: var(--text-color) !important;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+// Header styling for dark mode
+.site-header {
+  background-color: var(--header-bg) !important;
+  border-bottom-color: var(--border-color) !important;
+}
+
+.site-title, .site-title:visited {
+  color: var(--text-color) !important;
+}
+
+.site-nav .page-link {
+  color: var(--text-color) !important;
+}
+
+// Links
+a {
+  color: var(--link-color);
+
+  &:visited {
+    color: var(--link-color);
+  }
+
+  &:hover {
+    color: var(--link-color);
+  }
+}
+
+// Footer
+.site-footer {
+  border-top-color: var(--border-color) !important;
+  background-color: var(--header-bg) !important;
+  color: var(--text-secondary) !important;
+}
+
+.footer-col-wrapper {
+  color: var(--text-secondary) !important;
+}
+
+// Post content
+.post-content, .page-content {
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--text-color) !important;
+  }
+
+  p, li, td, th {
+    color: var(--text-color);
+  }
+}
+
+.post-title, .post-link, .page-heading {
+  color: var(--text-color) !important;
+}
+
+.post-meta {
+  color: var(--text-muted) !important;
+}
+
+.post-list-heading {
+  color: var(--text-color) !important;
+}
+
+// Code blocks
+pre, code {
+  background-color: var(--code-bg) !important;
+  border-color: var(--border-color) !important;
+  color: var(--text-color);
+}
+
+// Dark mode toggle button
+.theme-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 6px;
+  margin-left: 15px;
+  color: var(--text-color);
+  transition: opacity 0.2s ease;
+  vertical-align: middle;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  svg {
+    stroke: var(--text-color);
+  }
+
+  &:hover {
+    opacity: 0.7;
+  }
+}
+
+// Publication styling
+.publication {
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  border-left: 3px solid var(--border-color);
+  background-color: var(--bg-color);
+
+  &.publication-highlight {
+    border-left-color: var(--link-color);
+    background-color: var(--highlight-bg);
+  }
+}
+
+.pub-title {
+  font-weight: 600;
+  font-size: 1.05rem;
+  margin-bottom: 0.25rem;
+  color: var(--text-color);
+}
+
+.pub-authors {
+  font-size: 0.95rem;
+  color: var(--text-secondary);
+  margin-bottom: 0.25rem;
+}
+
+.pub-venue {
+  font-size: 0.9rem;
+  font-style: italic;
+  color: var(--text-muted);
+  margin-bottom: 0.5rem;
+}
+
+.pub-links {
+  font-size: 0.85rem;
+
+  .pub-link {
+    margin-right: 0.75rem;
+    color: var(--link-color);
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+// Profile image styling
+.profile-photo {
+  float: right;
+  margin-left: 20px;
+  margin-bottom: 10px;
+  width: 200px;
+  border-radius: 8px;
+}
+
+// News section
+.news-list {
+  list-style: none;
+  padding-left: 0;
+
+  li {
+    margin-bottom: 0.5rem;
+    padding-left: 1rem;
+    border-left: 2px solid var(--border-color);
+  }
+}
+
+// Wrapper
+.wrapper {
+  color: var(--text-color);
+}
+
+// Mobile menu dark mode
+.site-nav {
+  background-color: var(--header-bg);
+  border-color: var(--border-color);
+
+  @media screen and (max-width: 600px) {
+    background-color: var(--header-bg) !important;
+    border: 1px solid var(--border-color) !important;
+
+    .trigger {
+      background-color: var(--header-bg);
+    }
+  }
+
+  .menu-icon > svg path {
+    fill: var(--text-color);
+  }
+}
+
+// Responsive adjustments
+@media screen and (max-width: 600px) {
+  .profile-photo {
+    float: none;
+    display: block;
+    margin: 0 auto 20px;
+  }
+
+  .publication {
+    padding: 0.75rem;
+  }
+
+  .theme-toggle {
+    margin-left: 10px;
+  }
+}

@@ -1,0 +1,38 @@
+# Site settings
+title: "Can Özcan"
+description: "Researcher at Columbia University in the City of New York"
+author: "Can Özcan"
+email: your.email@university.edu
+baseurl: "" # subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Social links
+twitter_username: yourusername
+github_username: yourusername
+linkedin_username: yourusername
+google_scholar: # Your Google Scholar ID
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation
+header_pages:
+  - index.md
+  - publications.md
+  - blog.md
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
