@@ -241,8 +241,8 @@ pre, code {
 // Profile photo styling for portrait images (1024x1536)
 .profile-photo {
   float: right;
-  margin-left: 25px;
-  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-bottom: 15px;
   width: 160px;
   height: 240px; /* Maintains 2:3 aspect ratio (160:240 = 2:3) */
   object-fit: cover; /* Crops without distortion */
