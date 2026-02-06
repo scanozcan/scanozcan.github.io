@@ -2,14 +2,29 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
-
     <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
-      <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
+    
+    <div class="footer-content">
+      {%- if site.author -%}
+        <p class="footer-author">{{ site.author | escape }}</p>
+      {%- endif -%}
+      
+      {%- if site.email -%}
+        <p class="footer-email">
+          <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+        </p>
+      {%- endif -%}
+      
+      <div class="footer-social">
+        {%- include social.html -%}
       </div>
+      
+      <p class="footer-description">{{- site.description | escape -}}</p>
+      
+      <!-- Optional: Add copyright -->
+      <p class="footer-copyright">
+        &copy; {{ site.time | date: '%Y' }} {{ site.author | default: site.title }}
+      </p>
     </div>
-
   </div>
-
 </footer>
