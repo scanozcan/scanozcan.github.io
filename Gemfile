@@ -1,19 +1,19 @@
 source "https://rubygems.org"
 
-# Compatible with Ruby 2.6 and GitHub Pages
-gem "jekyll", "~> 3.9"
+# Updated for Ruby 4.0.1
+gem "jekyll", "~> 4.4.1"
 gem "minima", "~> 2.5"
 gem "webrick", "~> 1.7"
 
-# Pin ffi to a version compatible with Ruby 2.6
-gem "ffi", "< 1.17"
+# Remove ffi version restriction for newer Ruby
+gem "ffi"
 
 # Required for GFM markdown
 gem "kramdown-parser-gfm"
 
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
-  gem "jekyll-seo-tag", "~> 2.7"
+  gem "jekyll-feed", "~> 0.17"
+  gem "jekyll-seo-tag", "~> 2.8"
 end
 
 # Windows and JRuby does not include zoneinfo files
