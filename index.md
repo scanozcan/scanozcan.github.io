@@ -10,7 +10,7 @@ permalink: /
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
 <!-- Profile photo - replace with your image -->
-<img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Profile Photo" style="float: right; margin-left: 20px; margin-bottom: 10px; width: 200px; border-radius: 8px;">
+<img src="{{ '/assets/images/profile.png' | relative_url }}" alt="Profile Photo" class="profile-photo">
 
 # Selahattin Can Özcan
 

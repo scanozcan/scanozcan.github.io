@@ -237,3 +237,25 @@ pre, code {
     margin-left: 10px;
   }
 }
+
+// Profile photo styling for portrait images (1024x1536)
+.profile-photo {
+  float: right;
+  margin-left: 25px;
+  margin-bottom: 20px;
+  width: 160px;
+  height: 240px; /* Maintains 2:3 aspect ratio (160:240 = 2:3) */
+  object-fit: cover; /* Crops without distortion */
+  border-radius: 10px;
+  border: 2px solid var(--border-color);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  
+  /* Responsive for mobile */
+  @media screen and (max-width: 600px) {
+    float: none;
+    display: block;
+    margin: 0 auto 30px;
+    width: 140px;
+    height: 210px;
+  }
+}
