@@ -59,7 +59,7 @@ I love fooling around with plasmids and DNA sequences! I also enjoy exploring di
       <div style="display: flex; gap: 6px;">
         <span style="color: #11783c; font-size: 1.3em;">●</span>
         <span style="color: #11783c; font-size: 1.3em;">●</span>
-        <span style="color: #11783c; font-size: 1.3em;">●<</span>
+        <span style="color: #11783c; font-size: 1.3em;">●</span>
         <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
         <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
       </div>
