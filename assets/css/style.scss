@@ -239,16 +239,14 @@ pre, code {
 }
 
 // Back to blog link on post pages
-.back-link {
+a.back-link,
+a.back-link:visited,
+a.back-link:active {
   display: inline-block;
   margin-bottom: 15px;
   font-size: 0.9rem;
-  color: var(--text-color);
+  color: var(--text-color) !important;
   text-decoration: none;
-
-  &:visited {
-    color: var(--text-color);
-  }
 
   &:hover {
     text-decoration: underline;
