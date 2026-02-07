@@ -2,18 +2,26 @@
   <div class="pub-title">{{ pub.title }}</div>
   <div class="pub-authors">{{ pub.authors }}</div>
   <div class="pub-venue">{{ pub.venue }}, {{ pub.year }}</div>
-  <div class="pub-links">
+  <div class="pub-icons">
     {% if pub.links.doi and pub.links.doi != "#" %}
-      <a href="{{ pub.links.doi }}" class="pub-link">[DOI]</a>
+      <a href="{{ pub.links.doi }}" class="pub-icon-link" title="DOI">
+        <i class="ai ai-doi"></i>
+      </a>
     {% endif %}
     {% if pub.links.code and pub.links.code != "#" %}
-      <a href="{{ pub.links.code }}" class="pub-link">[Code]</a>
+      <a href="{{ pub.links.code }}" class="pub-icon-link" title="Code">
+        <i class="fas fa-code"></i>
+      </a>
     {% endif %}
     {% if pub.links.slides and pub.links.slides != "#" %}
-      <a href="{{ pub.links.slides }}" class="pub-link">[Slides]</a>
+      <a href="{{ pub.links.slides }}" class="pub-icon-link" title="Slides">
+        <i class="fas fa-file-powerpoint"></i>
+      </a>
     {% endif %}
     {% if pub.links.thesis and pub.links.thesis != "#" %}
-      <a href="{{ pub.links.thesis }}" class="pub-link">[Thesis is in Turkish]</a>
+      <a href="{{ pub.links.thesis }}" class="pub-icon-link" title="Thesis (in Turkish)">
+        <i class="fas fa-graduation-cap"></i>
+      </a>
     {% endif %}
   </div>
 </div>
