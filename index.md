@@ -95,7 +95,7 @@ I love fooling around with plasmids and DNA sequences! I also enjoy exploring di
     <h3 style="margin-top: 0; margin-bottom: 15px; color: #2c3e50;">Hobbies & Personal Interests</h3>
     
     <!-- Hiking & Photography -->
-    <div style="margin-bottom: 4px;">
+    <div style="margin-bottom: 2px;">
       <div style="font-size: 0.95em; margin-bottom: 2px; font-weight: 500;">Hiking & Photography</div>
       <div style="display: flex; gap: 6px;">
         <span style="color: #e7880b; font-size: 1.3em;">●</span>
@@ -107,7 +107,7 @@ I love fooling around with plasmids and DNA sequences! I also enjoy exploring di
     </div>
     
     <!-- Cats & Dogs -->
-    <div style="margin-bottom: 4px;">
+    <div style="margin-bottom: 2px;">
       <div style="font-size: 0.95em; margin-bottom: 2px; font-weight: 500;">Cats & Dogs</div>
       <div style="display: flex; gap: 6px;">
         <span style="color: #e7880b; font-size: 1.3em;">●</span>
@@ -119,7 +119,7 @@ I love fooling around with plasmids and DNA sequences! I also enjoy exploring di
     </div>
     
     <!-- Classical Music & Piano -->
-    <div style="margin-bottom: 4px;">
+    <div style="margin-bottom: 2px;">
       <div style="font-size: 0.95em; margin-bottom: 2px; font-weight: 500;">Classical Music & Piano</div>
       <div style="display: flex; gap: 6px;">
         <span style="color: #e7880b; font-size: 1.3em;">●</span>
@@ -131,7 +131,7 @@ I love fooling around with plasmids and DNA sequences! I also enjoy exploring di
     </div>
     
     <!-- Art Films -->
-    <div style="margin-bottom: 4px;">
+    <div style="margin-bottom: 2px;">
       <div style="font-size: 0.95em; margin-bottom: 2px; font-weight: 500;">Art Films</div>
       <div style="display: flex; gap: 6px;">
         <span style="color: #e7880b; font-size: 1.3em;">●</span>
