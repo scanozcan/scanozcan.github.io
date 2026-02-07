@@ -22,7 +22,7 @@ I love fooling around with plasmids and DNA sequences! I also enjoy exploring di
 
 ## Work Experience
 
-- **Associate Research Scientist**, SRSP Lab, Columbia University *(Oct 2025 – Present)*
+- **Associate Research Scientist**, Woappi Lab, Columbia University *(Oct 2025 – Present)*
 - **Postdoctoral Researcher**, Chio Lab, Columbia University *(Feb 2024 – Sep 2025)*
 - **Postdoctoral Researcher**, CAA Lab, Koç University *(Aug 2019 – Dec 2023)*
 - **Visiting Researcher**, Chesney Lab, University of Louisville *(Jul 2014 – Apr 2015)*
