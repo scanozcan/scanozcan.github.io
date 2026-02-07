@@ -174,8 +174,12 @@ I love fooling around with plasmids and DNA sequences! I also enjoy exploring di
 </ul>
 {% endif %}
 
+<div style="margin-top: 40px;">
+
 **Office**: Russ Berrie Pavilion, Room 606<br>
 **Address**: 1150 St. Nicholas Ave, New York, NY 10032
+
+</div>
 
 <!-- Social Links - Now with your custom Bluesky SVG -->
 <div style="margin-top: 20px; clear: both; display: flex; gap: 20px; flex-wrap: wrap; align-items: center; justify-content: center;" class="icon-container">
