@@ -99,6 +99,10 @@ a {
   color: var(--text-color) !important;
 }
 
+.post-list h3 {
+  font-size: 1em;
+}
+
 // Code blocks
 pre, code {
   background-color: var(--code-bg) !important;
