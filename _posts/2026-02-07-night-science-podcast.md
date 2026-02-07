@@ -45,6 +45,22 @@ categories: general
   <div class="publication-item">
     <div class="publication">
       <div class="pub-title">
+        50 | It takes two to think
+        <a href="https://podcasts.apple.com/us/podcast/night-science/id1563415749?i=1000641732153" style="text-decoration: none; color: inherit; margin-left: 8px;" title="Listen on Apple Podcasts" class="podcast-icon">
+          <i class="fas fa-podcast" style="font-size: 18px; transition: all 0.2s cubic-bezier(0.34, 1.56, 0.64, 1); vertical-align: middle;"></i>
+        </a>
+      </div>
+      <div class="pub-authors">Itai Yanai & Martin Lercher</div>
+      <div class="pub-venue">Night Science, Jan 15, 2024 · 24 min</div>
+      <div class="pub-links">
+        <span style="font-weight: normal;">The hosts explore how collaboration drives scientific innovation — through conversation, people combine their individual knowledge and create thoughts inaccessible to them alone.</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="publication-item">
+    <div class="publication">
+      <div class="pub-title">
         63 | Manu Prakash and how the discovery changes you
         <a href="https://podcasts.apple.com/us/podcast/night-science/id1563415749?i=1000668860474" style="text-decoration: none; color: inherit; margin-left: 8px;" title="Listen on Apple Podcasts" class="podcast-icon">
           <i class="fas fa-podcast" style="font-size: 18px; transition: all 0.2s cubic-bezier(0.34, 1.56, 0.64, 1); vertical-align: middle;"></i>
@@ -61,6 +77,22 @@ categories: general
   <div class="publication-item">
     <div class="publication">
       <div class="pub-title">
+        23 | Aviv Regev on how to be generous with your ideas
+        <a href="https://podcasts.apple.com/us/podcast/night-science/id1563415749?i=1000584478921" style="text-decoration: none; color: inherit; margin-left: 8px;" title="Listen on Apple Podcasts" class="podcast-icon">
+          <i class="fas fa-podcast" style="font-size: 18px; transition: all 0.2s cubic-bezier(0.34, 1.56, 0.64, 1); vertical-align: middle;"></i>
+        </a>
+      </div>
+      <div class="pub-authors">Itai Yanai & Martin Lercher ft. Aviv Regev</div>
+      <div class="pub-venue">Night Science, Oct 31, 2022 · 35 min</div>
+      <div class="pub-links">
+        <span style="font-weight: normal;">Single-cell genomics pioneer Aviv Regev discusses setting ideas free, how frustration can fuel creativity, and allowing personal taste to guide scientific direction.</span>
+      </div>
+    </div>
+  </div>
+  
+  <div class="publication-item">
+    <div class="publication">
+      <div class="pub-title">
         60 | Venki Ramakrishnan and the secrets of doing science over tea
         <a href="https://podcasts.apple.com/us/podcast/night-science/id1563415749?i=1000660773863" style="text-decoration: none; color: inherit; margin-left: 8px;" title="Listen on Apple Podcasts" class="podcast-icon">
           <i class="fas fa-podcast" style="font-size: 18px; transition: all 0.2s cubic-bezier(0.34, 1.56, 0.64, 1); vertical-align: middle;"></i>
@@ -70,22 +102,6 @@ categories: general
       <div class="pub-venue">Night Science, Jul 1, 2024 · 34 min</div>
       <div class="pub-links">
         <span style="font-weight: normal;">2009 Nobel laureate Venki Ramakrishnan discusses enjoying the scientific process itself, how creativity emerges through contemplation and collaboration, and viewing requests for help as professional strength.</span>
-      </div>
-    </div>
-  </div>
-
-  <div class="publication-item">
-    <div class="publication">
-      <div class="pub-title">
-        50 | It takes two to think
-        <a href="https://podcasts.apple.com/us/podcast/night-science/id1563415749?i=1000641732153" style="text-decoration: none; color: inherit; margin-left: 8px;" title="Listen on Apple Podcasts" class="podcast-icon">
-          <i class="fas fa-podcast" style="font-size: 18px; transition: all 0.2s cubic-bezier(0.34, 1.56, 0.64, 1); vertical-align: middle;"></i>
-        </a>
-      </div>
-      <div class="pub-authors">Itai Yanai & Martin Lercher</div>
-      <div class="pub-venue">Night Science, Jan 15, 2024 · 24 min</div>
-      <div class="pub-links">
-        <span style="font-weight: normal;">The hosts explore how collaboration drives scientific innovation — through conversation, people combine their individual knowledge and create thoughts inaccessible to them alone.</span>
       </div>
     </div>
   </div>
@@ -106,21 +122,7 @@ categories: general
     </div>
   </div>
 
-  <div class="publication-item">
-    <div class="publication">
-      <div class="pub-title">
-        23 | Aviv Regev on how to be generous with your ideas
-        <a href="https://podcasts.apple.com/us/podcast/night-science/id1563415749?i=1000584478921" style="text-decoration: none; color: inherit; margin-left: 8px;" title="Listen on Apple Podcasts" class="podcast-icon">
-          <i class="fas fa-podcast" style="font-size: 18px; transition: all 0.2s cubic-bezier(0.34, 1.56, 0.64, 1); vertical-align: middle;"></i>
-        </a>
-      </div>
-      <div class="pub-authors">Itai Yanai & Martin Lercher ft. Aviv Regev</div>
-      <div class="pub-venue">Night Science, Oct 31, 2022 · 35 min</div>
-      <div class="pub-links">
-        <span style="font-weight: normal;">Single-cell genomics pioneer Aviv Regev discusses setting ideas free, how frustration can fuel creativity, and allowing personal taste to guide scientific direction.</span>
-      </div>
-    </div>
-  </div>
+
 
 </div>
 
