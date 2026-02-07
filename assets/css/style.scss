@@ -103,6 +103,15 @@ a {
   font-size: 1em;
 }
 
+.post-list h3 a.post-link {
+  text-decoration: none;
+  color: var(--text-color) !important;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
 // Code blocks
 pre, code {
   background-color: var(--code-bg) !important;
@@ -171,8 +180,9 @@ pre, code {
 
   .pub-link {
     margin-right: 0.75rem;
-    color: var(--link-color);
+    color: var(--text-color);
     text-decoration: none;
+    font-weight: bold;
 
     &:hover {
       text-decoration: underline;
