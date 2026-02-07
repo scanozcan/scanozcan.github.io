@@ -64,6 +64,18 @@ I love fooling around with plasmids and DNA sequences! I also enjoy exploring di
         <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
       </div>
     </div>
+
+    <!-- Writing -->
+    <div style="margin-bottom: 2px;">
+      <div style="font-size: 0.95em; margin-bottom: 2px; font-weight: 500;">Writing</div>
+      <div style="display: flex; gap: 6px;">
+        <span style="color: #11783c; font-size: 1.3em;">●</span>
+        <span style="color: #11783c; font-size: 1.3em;">●</span>
+        <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
+        <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
+        <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
+      </div>
+    </div>
     
     <!-- Python -->
     <div style="margin-bottom: 2px;">
@@ -126,6 +138,18 @@ I love fooling around with plasmids and DNA sequences! I also enjoy exploring di
         <span style="color: #e7880b; font-size: 1.3em;">●</span>
         <span style="color: #e7880b; font-size: 1.3em;">●</span>
         <span style="color: #e7880b; font-size: 1.3em;">●</span>
+        <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
+      </div>
+    </div>
+
+    <!-- Stand-up Comedy -->
+    <div style="margin-bottom: 2px;">
+      <div style="font-size: 0.95em; margin-bottom: 2px; font-weight: 500;">Stand-up Comedy</div>
+      <div style="display: flex; gap: 6px;">
+        <span style="color: #e7880b; font-size: 1.3em;">●</span>
+        <span style="color: #e7880b; font-size: 1.3em;">●</span>
+        <span style="color: #e7880b; font-size: 1.3em;">●</span>
+        <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
         <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
       </div>
     </div>
