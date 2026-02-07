@@ -2,6 +2,7 @@
 layout: home
 title: About
 permalink: /
+list_title: Recent Posts
 ---
 
 <!-- Academicons for academic icons -->
