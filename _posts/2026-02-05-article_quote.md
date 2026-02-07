@@ -9,6 +9,6 @@ I admire scientific writing that incorporates cultural references. Here's a grea
 
 > *"Regeneration of an amputated salamander limb involves blood loss, major skin damage, and depletion of large regions of muscle and skeletal bone or cartilage. Thus, to achieve regeneration, the animal effectively requires everything, everywhere, all at once."*
 
-The reference to *"everything, everywhere, all at once"*—echoing the [2022 film](https://www.imdb.com/title/tt6710474/)—makes a complex biological process immediately relatable. It shows how thoughtful writing can bridge science and art while maintaining precision.
+The reference to *"everything, everywhere, all at once"*—echoing the [2022 film](https://www.imdb.com/title/tt6710474/)—makes a complex biological process immediately relatable. It shows how thoughtful writing can bridge science and art.
 
 Simple touches like this make academic writing more memorable.
