@@ -54,15 +54,24 @@ body {
 
 // Links
 a {
-  color: var(--link-color);
+  color: var(--text-color);
+  text-decoration: none;
 
   &:visited {
-    color: var(--link-color);
+    color: var(--text-color);
   }
 
   &:hover {
-    color: var(--link-color);
+    text-decoration: underline;
   }
+}
+
+// Content links are bold
+.post-content a,
+.page-content p a,
+.page-content li a,
+.pub-link {
+  font-weight: bold;
 }
 
 // Footer
@@ -103,14 +112,6 @@ a {
   font-size: 1em;
 }
 
-.post-list h3 a.post-link {
-  text-decoration: none;
-  color: var(--text-color) !important;
-
-  &:hover {
-    text-decoration: underline;
-  }
-}
 
 // Code blocks
 pre, code {
