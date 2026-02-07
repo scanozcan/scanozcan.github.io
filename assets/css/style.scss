@@ -54,11 +54,11 @@ body {
 
 // Links
 a {
-  color: var(--text-color);
+  color: var(--text-color) !important;
   text-decoration: none;
 
   &:visited {
-    color: var(--text-color);
+    color: var(--text-color) !important;
   }
 
   &:hover {
@@ -66,11 +66,8 @@ a {
   }
 }
 
-// Content links are bold
-.post-content a,
-.page-content p a,
-.page-content li a,
-.pub-link {
+// External links are bold
+a[href^="http"] {
   font-weight: bold;
 }
 
