@@ -163,7 +163,7 @@ I love fooling around with plasmids and DNA sequences! I also enjoy exploring di
 ## Blog Posts
 
 <ul class="post-list">
-  {% for post in site.posts %}
+  {% for post in site.posts limit:2 %}
   <li>
     <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
     <h3>
