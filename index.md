@@ -2,7 +2,6 @@
 layout: home
 title: About
 permalink: /
-list_title: Recent Posts
 ---
 
 <!-- Academicons for academic icons -->
@@ -161,7 +160,7 @@ I love fooling around with plasmids and DNA sequences! I also enjoy exploring di
 **January 2026**: Our preprint on the cell-cycle-dependent interactome of Nek2 was published on bioRxiv.
 
 {% if site.posts.size > 0 %}
-## Blog Posts
+## Recent Posts
 
 <ul class="post-list">
   {% for post in site.posts limit:2 %}
