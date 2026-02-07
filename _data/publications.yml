@@ -40,7 +40,7 @@
   issue: "1"
   pages: "600"
   links:
-    doi: "https://doi.org/10.1038/s41419-025-07168-4"
+    doi: "https://doi.org/10.1038/s41419-025-07900-w"
 
 - type: "article"
   title: "Nek2A prevents centrosome clustering and induces cell death in cancer cells via KIF2C interaction"
@@ -51,7 +51,7 @@
   issue: "3"
   pages: "222"
   links:
-    doi: "https://doi.org/10.1038/s41419-024-06590-0"
+    doi: "https://doi.org/10.1038/s41419-024-06601-0"
 
 - type: "article"
   title: "Prolonged overexpression of PLK4 leads to formation of centriole rosette clusters that are connected via canonical centrosome linker proteins"
@@ -62,7 +62,7 @@
   issue: "1"
   pages: "4370"
   links:
-    doi: "https://doi.org/10.1038/s41598-024-54802-6"
+    doi: "https://doi.org/10.1038/s41598-024-53985-2"
 
 - type: "article"
   title: "Simultaneous inhibition of PFKFB3 and GLS1 selectively kills KRAS-transformed pancreatic cells"
@@ -72,7 +72,7 @@
   volume: "571"
   pages: "118-124"
   links:
-    doi: "https://doi.org/10.1016/j.bbrc.2021.07.060"
+    doi: "https://doi.org/10.1016/j.bbrc.2021.07.070"
 
 - type: "article"
   title: "PFKFB2 regulates glycolysis and proliferation in pancreatic cancer cells"
@@ -83,7 +83,7 @@
   issue: "1"
   pages: "115-129"
   links:
-    doi: "https://doi.org/10.1007/s11010-020-03752-4"
+    doi: "https://doi.org/10.1007/s11010-020-03751-5"
 
 - type: "article"
   title: "6-phosphofructo-2-kinase/fructose 2,6-bisphosphatase-3 is required for transforming growth factor β1-enhanced invasion of Panc1 cells in vitro"
@@ -94,7 +94,7 @@
   issue: "3"
   pages: "687-693"
   links:
-    doi: "https://doi.org/10.1016/j.bbrc.2017.01.153"
+    doi: "https://doi.org/10.1016/j.bbrc.2017.01.178"
 
 - type: "article"
   title: "6-Phosphofructo-2-kinase (PFKFB3) promotes cell cycle progression and suppresses apoptosis via Cdk1-mediated phosphorylation of p27"
@@ -140,15 +140,6 @@
   pages: "012003"
   links:
     doi: "https://doi.org/10.1088/1742-6596/2191/1/012003"
-
-- type: "congress"
-  title: "Study of PFKFB2 isoforms in pancreatic duct cells transformed with mutant K-Ras"
-  authors: "Ozcan SC, Guzel S, Sevinc ED, Balaban BD, Chesney JA, Yalcin A"
-  venue: "FEBS Journal"
-  year: 2016
-  volume: "283"
-  pages: "186-186"
-  links: {}
 
 # Pre-prints
 - type: "preprint"
