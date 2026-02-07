@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Night Science podcasts episodes that I like"
+title: "Night Science podcast episodes that I like"
 date: 2026-02-07
 categories: general
 ---
@@ -38,6 +38,22 @@ categories: general
       <div class="pub-venue">Night Science, Mar 24, 2025 · 25 min</div>
       <div class="pub-links">
         <span style="font-weight: normal;">2024 Nobel laureate David Baker discusses how he structures his lab as a "communal brain" and explores AI's role in scientific creativity and innovation.</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="publication-item">
+    <div class="publication">
+      <div class="pub-title">
+        63 | Manu Prakash and how the discovery changes you
+        <a href="https://podcasts.apple.com/us/podcast/night-science/id1563415749?i=1000668860474" style="text-decoration: none; color: inherit; margin-left: 8px;" title="Listen on Apple Podcasts" class="podcast-icon">
+          <i class="fas fa-podcast" style="font-size: 18px; transition: all 0.2s cubic-bezier(0.34, 1.56, 0.64, 1); vertical-align: middle;"></i>
+        </a>
+      </div>
+      <div class="pub-authors">Itai Yanai & Martin Lercher ft. Manu Prakash</div>
+      <div class="pub-venue">Night Science, Sep 9, 2024 · 45 min</div>
+      <div class="pub-links">
+        <span style="font-weight: normal;">Stanford bioengineer and FoldScope inventor Manu Prakash discusses how meaningful research requires immersing oneself in the environment being studied, and how the most significant outcome of a discovery is how it changes the scientist.</span>
       </div>
     </div>
   </div>
