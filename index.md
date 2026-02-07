@@ -178,7 +178,7 @@ I love fooling around with plasmids and DNA sequences! I also enjoy exploring di
 **Address**: 1150 St. Nicholas Ave, New York, NY 10032
 
 <!-- Social Links - Now with your custom Bluesky SVG -->
-<div style="margin-top: 20px; clear: both; display: flex; gap: 20px; flex-wrap: wrap; align-items: center;" class="icon-container">
+<div style="margin-top: 20px; clear: both; display: flex; gap: 20px; flex-wrap: wrap; align-items: center; justify-content: center;" class="icon-container">
   
   <!-- Email - Font Awesome -->
   <a href="mailto:so2716@cumc.columbia.edu" style="text-decoration: none; color: inherit;" title="Email">
