@@ -168,3 +168,12 @@
   links:
     pdf: "https://www.biorxiv.org/content/10.1101/2025.09.17.676440v1"
     doi: "https://doi.org/10.1101/2025.09.17.676440"
+
+# PhD Thesis
+- type: "thesis"
+  title: "The Role of PFKFB2 on oncogenic transformation of pancreatic epithelial cells"
+  authors: "Ozcan SC"
+  venue: "Uludag University, Department of Biochemistry"
+  year: 2018
+  links:
+    thesis: "https://acikerisim.uludag.edu.tr/entities/publication/af9206b5-10c5-4c58-9dc5-69ee57448628"

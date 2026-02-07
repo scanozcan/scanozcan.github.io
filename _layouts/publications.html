@@ -11,6 +11,7 @@ layout: default
     {% assign articles = site.data.publications | where: "type", "article" | sort: "year" | reverse %}
     {% assign reviews = site.data.publications | where: "type", "review" | sort: "year" | reverse %}
     {% assign congress = site.data.publications | where: "type", "congress" | sort: "year" | reverse %}
+    {% assign theses = site.data.publications | where: "type", "thesis" | sort: "year" | reverse %}
 
     <!-- Keep your original section order -->
     {% if currents.size > 0 %}
@@ -61,6 +62,17 @@ layout: default
     <h2>Select Conference Papers</h2>
     <div class="publications-grid">
       {% for pub in congress %}
+        <div class="publication-item">
+          {% include publication.html pub=pub %}
+        </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    {% if theses.size > 0 %}
+    <h2>PhD Thesis</h2>
+    <div class="publications-grid">
+      {% for pub in theses %}
         <div class="publication-item">
           {% include publication.html pub=pub %}
         </div>
