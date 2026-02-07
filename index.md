@@ -43,7 +43,7 @@ I love fooling around with plasmids and DNA sequences! I also enjoy exploring di
     
     <!-- Wet - lab -->
     <div style="margin-bottom: 4px;">
-      <div style="font-size: 0.95em; margin-bottom: 2px; font-weight: 500;">Wet - lab</div>
+      <div style="font-size: 0.95em; margin-bottom: 2px; font-weight: 500;">Wet-lab</div>
       <div style="display: flex; gap: 6px;">
         <span style="color: #11783c; font-size: 1.3em;">●</span>
         <span style="color: #11783c; font-size: 1.3em;">●</span>
