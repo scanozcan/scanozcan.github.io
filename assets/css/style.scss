@@ -238,6 +238,19 @@ pre, code {
   }
 }
 
+// Back to blog link on post pages
+.back-link {
+  display: inline-block;
+  margin-bottom: 15px;
+  font-size: 0.9rem;
+  color: var(--link-color);
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
 // Make page titles consistent (smaller) across Publications and Blog
 .post-title {
   font-size: 1.5rem !important;
