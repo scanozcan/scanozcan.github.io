@@ -14,9 +14,14 @@ categories: general
     <div class="publication">
       <div class="pub-title">
         67 | A hypothesis is a liability
-        <a href="https://podcasts.apple.com/us/podcast/night-science/id1563415749?i=1000680573010" style="text-decoration: none; color: inherit; margin-left: 8px;" title="Listen on Apple Podcasts" class="podcast-icon">
-          <i class="fas fa-podcast" style="font-size: 18px; transition: all 0.2s cubic-bezier(0.34, 1.56, 0.64, 1); vertical-align: middle;"></i>
-        </a>
+        <span class="podcast-icons">
+          <a href="https://podcasts.apple.com/us/podcast/night-science/id1563415749?i=1000680573010" style="text-decoration: none; color: inherit;" title="Listen on Apple Podcasts" class="podcast-icon">
+            <i class="fas fa-podcast"></i>
+          </a>
+          <a href="https://open.spotify.com/episode/0JvElpVgJchYmOqw70onVy" style="text-decoration: none; color: inherit;" title="Listen on Spotify" class="spotify-pod-icon">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
+          </a>
+        </span>
       </div>
       <div class="pub-authors">Itai Yanai & Martin Lercher</div>
       <div class="pub-venue">Night Science, Dec 16, 2024 · 40 min</div>
@@ -30,9 +35,14 @@ categories: general
     <div class="publication">
       <div class="pub-title">
         72 | David Baker and the lab's communal brain
-        <a href="https://podcasts.apple.com/us/podcast/night-science/id1563415749?i=1000700636501" style="text-decoration: none; color: inherit; margin-left: 8px;" title="Listen on Apple Podcasts" class="podcast-icon">
-          <i class="fas fa-podcast" style="font-size: 18px; transition: all 0.2s cubic-bezier(0.34, 1.56, 0.64, 1); vertical-align: middle;"></i>
-        </a>
+        <span class="podcast-icons">
+          <a href="https://podcasts.apple.com/us/podcast/night-science/id1563415749?i=1000700636501" style="text-decoration: none; color: inherit;" title="Listen on Apple Podcasts" class="podcast-icon">
+            <i class="fas fa-podcast"></i>
+          </a>
+          <a href="https://open.spotify.com/episode/0psGTwAz5PRSmJdXeqtSWG" style="text-decoration: none; color: inherit;" title="Listen on Spotify" class="spotify-pod-icon">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
+          </a>
+        </span>
       </div>
       <div class="pub-authors">Itai Yanai & Martin Lercher ft. David Baker</div>
       <div class="pub-venue">Night Science, Mar 24, 2025 · 25 min</div>
@@ -46,9 +56,14 @@ categories: general
     <div class="publication">
       <div class="pub-title">
         50 | It takes two to think
-        <a href="https://podcasts.apple.com/us/podcast/night-science/id1563415749?i=1000641732153" style="text-decoration: none; color: inherit; margin-left: 8px;" title="Listen on Apple Podcasts" class="podcast-icon">
-          <i class="fas fa-podcast" style="font-size: 18px; transition: all 0.2s cubic-bezier(0.34, 1.56, 0.64, 1); vertical-align: middle;"></i>
-        </a>
+        <span class="podcast-icons">
+          <a href="https://podcasts.apple.com/us/podcast/night-science/id1563415749?i=1000641732153" style="text-decoration: none; color: inherit;" title="Listen on Apple Podcasts" class="podcast-icon">
+            <i class="fas fa-podcast"></i>
+          </a>
+          <a href="https://open.spotify.com/episode/6s4U7KR1A3jwYCB1it9kB3" style="text-decoration: none; color: inherit;" title="Listen on Spotify" class="spotify-pod-icon">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
+          </a>
+        </span>
       </div>
       <div class="pub-authors">Itai Yanai & Martin Lercher</div>
       <div class="pub-venue">Night Science, Jan 15, 2024 · 24 min</div>
@@ -62,9 +77,14 @@ categories: general
     <div class="publication">
       <div class="pub-title">
         63 | Manu Prakash and how the discovery changes you
-        <a href="https://podcasts.apple.com/us/podcast/night-science/id1563415749?i=1000668860474" style="text-decoration: none; color: inherit; margin-left: 8px;" title="Listen on Apple Podcasts" class="podcast-icon">
-          <i class="fas fa-podcast" style="font-size: 18px; transition: all 0.2s cubic-bezier(0.34, 1.56, 0.64, 1); vertical-align: middle;"></i>
-        </a>
+        <span class="podcast-icons">
+          <a href="https://podcasts.apple.com/us/podcast/night-science/id1563415749?i=1000668860474" style="text-decoration: none; color: inherit;" title="Listen on Apple Podcasts" class="podcast-icon">
+            <i class="fas fa-podcast"></i>
+          </a>
+          <a href="https://open.spotify.com/episode/3pUczljLiPsayNhHfPfjlv" style="text-decoration: none; color: inherit;" title="Listen on Spotify" class="spotify-pod-icon">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
+          </a>
+        </span>
       </div>
       <div class="pub-authors">Itai Yanai & Martin Lercher ft. Manu Prakash</div>
       <div class="pub-venue">Night Science, Sep 9, 2024 · 45 min</div>
@@ -78,9 +98,14 @@ categories: general
     <div class="publication">
       <div class="pub-title">
         23 | Aviv Regev on how to be generous with your ideas
-        <a href="https://podcasts.apple.com/us/podcast/night-science/id1563415749?i=1000584478921" style="text-decoration: none; color: inherit; margin-left: 8px;" title="Listen on Apple Podcasts" class="podcast-icon">
-          <i class="fas fa-podcast" style="font-size: 18px; transition: all 0.2s cubic-bezier(0.34, 1.56, 0.64, 1); vertical-align: middle;"></i>
-        </a>
+        <span class="podcast-icons">
+          <a href="https://podcasts.apple.com/us/podcast/night-science/id1563415749?i=1000584478921" style="text-decoration: none; color: inherit;" title="Listen on Apple Podcasts" class="podcast-icon">
+            <i class="fas fa-podcast"></i>
+          </a>
+          <a href="https://open.spotify.com/episode/7FgVUvqcB8OIDYuCs0lpLN" style="text-decoration: none; color: inherit;" title="Listen on Spotify" class="spotify-pod-icon">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
+          </a>
+        </span>
       </div>
       <div class="pub-authors">Itai Yanai & Martin Lercher ft. Aviv Regev</div>
       <div class="pub-venue">Night Science, Oct 31, 2022 · 35 min</div>
@@ -89,14 +114,19 @@ categories: general
       </div>
     </div>
   </div>
-  
+
   <div class="publication-item">
     <div class="publication">
       <div class="pub-title">
         60 | Venki Ramakrishnan and the secrets of doing science over tea
-        <a href="https://podcasts.apple.com/us/podcast/night-science/id1563415749?i=1000660773863" style="text-decoration: none; color: inherit; margin-left: 8px;" title="Listen on Apple Podcasts" class="podcast-icon">
-          <i class="fas fa-podcast" style="font-size: 18px; transition: all 0.2s cubic-bezier(0.34, 1.56, 0.64, 1); vertical-align: middle;"></i>
-        </a>
+        <span class="podcast-icons">
+          <a href="https://podcasts.apple.com/us/podcast/night-science/id1563415749?i=1000660773863" style="text-decoration: none; color: inherit;" title="Listen on Apple Podcasts" class="podcast-icon">
+            <i class="fas fa-podcast"></i>
+          </a>
+          <a href="https://open.spotify.com/episode/2rS2AxRa38qRelI4HMs4Xy" style="text-decoration: none; color: inherit;" title="Listen on Spotify" class="spotify-pod-icon">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
+          </a>
+        </span>
       </div>
       <div class="pub-authors">Itai Yanai & Martin Lercher ft. Venki Ramakrishnan</div>
       <div class="pub-venue">Night Science, Jul 1, 2024 · 34 min</div>
@@ -110,9 +140,14 @@ categories: general
     <div class="publication">
       <div class="pub-title">
         39 | Bonnie Bassler and living on the edge in a nerdy kind of way
-        <a href="https://podcasts.apple.com/us/podcast/night-science/id1563415749?i=1000624363364" style="text-decoration: none; color: inherit; margin-left: 8px;" title="Listen on Apple Podcasts" class="podcast-icon">
-          <i class="fas fa-podcast" style="font-size: 18px; transition: all 0.2s cubic-bezier(0.34, 1.56, 0.64, 1); vertical-align: middle;"></i>
-        </a>
+        <span class="podcast-icons">
+          <a href="https://podcasts.apple.com/us/podcast/night-science/id1563415749?i=1000624363364" style="text-decoration: none; color: inherit;" title="Listen on Apple Podcasts" class="podcast-icon">
+            <i class="fas fa-podcast"></i>
+          </a>
+          <a href="https://open.spotify.com/episode/18ecrc3tA0W16RemmAOm6p" style="text-decoration: none; color: inherit;" title="Listen on Spotify" class="spotify-pod-icon">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
+          </a>
+        </span>
       </div>
       <div class="pub-authors">Itai Yanai & Martin Lercher ft. Bonnie Bassler</div>
       <div class="pub-venue">Night Science, Aug 14, 2023 · 39 min</div>
@@ -122,13 +157,34 @@ categories: general
     </div>
   </div>
 
-
-
 </div>
 
 <style>
-  .podcast-icon:hover .fa-podcast {
+  .podcast-icons {
+    margin-left: 8px;
+    white-space: nowrap;
+  }
+
+  .podcast-icon i, .spotify-pod-icon svg {
+    font-size: 18px;
+    width: 18px;
+    height: 18px;
+    transition: all 0.2s cubic-bezier(0.34, 1.56, 0.64, 1);
+    vertical-align: middle;
+  }
+
+  .podcast-icon {
+    margin-right: 6px;
+  }
+
+  .podcast-icon:hover i {
     color: #9933CC !important;
+    opacity: 0.9;
+    transform: scale(1.15);
+  }
+
+  .spotify-pod-icon:hover svg {
+    color: #1DB954 !important;
     opacity: 0.9;
     transform: scale(1.15);
   }
