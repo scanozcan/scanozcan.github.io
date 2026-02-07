@@ -243,8 +243,12 @@ pre, code {
   display: inline-block;
   margin-bottom: 15px;
   font-size: 0.9rem;
-  color: var(--link-color);
+  color: var(--text-color);
   text-decoration: none;
+
+  &:visited {
+    color: var(--text-color);
+  }
 
   &:hover {
     text-decoration: underline;
