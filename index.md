@@ -41,7 +41,7 @@ I love fooling around with plasmids and DNA sequences! I also enjoy exploring di
   <div>
     <h3 style="margin-top: 0; margin-bottom: 15px; color: #2c3e50;">Technical Skills</h3>
     
-    <!-- Wet - lab -->
+    <!-- Wet-lab -->
     <div style="margin-bottom: 4px;">
       <div style="font-size: 0.95em; margin-bottom: 2px; font-weight: 500;">Wet-lab</div>
       <div style="display: flex; gap: 6px;">
