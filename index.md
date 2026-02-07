@@ -39,7 +39,7 @@ I love fooling around with plasmids and DNA sequences! I also enjoy exploring di
   
   <!-- Left Column: Technical Skills -->
   <div>
-    <h3 style="margin-top: 0; margin-bottom: 15px; color: #072d52;">Technical Skills</h3>
+    <h3 style="margin-top: 0; margin-bottom: 15px; color: #2c3e50;">Technical Skills</h3>
     
     <!-- Wet-lab -->
     <div style="margin-bottom: 4px;">
@@ -92,7 +92,7 @@ I love fooling around with plasmids and DNA sequences! I also enjoy exploring di
   
   <!-- Right Column: Hobbies & Personal Interests -->
   <div>
-    <h3 style="margin-top: 0; margin-bottom: 15px; color: #c8147a;">Hobbies & Personal Interests</h3>
+    <h3 style="margin-top: 0; margin-bottom: 15px; color: #2c3e50;">Hobbies & Personal Interests</h3>
     
     <!-- Hiking & Photography -->
     <div style="margin-bottom: 4px;">
