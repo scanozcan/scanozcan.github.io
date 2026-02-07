@@ -174,7 +174,7 @@ I love fooling around with plasmids and DNA sequences! I also enjoy exploring di
 </ul>
 {% endif %}
 
-<div style="margin-top: 40px;">
+<div style="margin-top: 40px;" markdown="1">
 
 **Office**: Russ Berrie Pavilion, Room 606<br>
 **Address**: 1150 St. Nicholas Ave, New York, NY 10032
