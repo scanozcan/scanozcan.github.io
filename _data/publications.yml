@@ -121,7 +121,7 @@
 
 # Select Conference Papers
 - type: "congress"
-  title: "Identification of Chromatin Regulators Required for Enucleation"
+  title: "Identification of chromatin regulators required for enucleation"
   authors: "Goksel E, Ozcan SC, Kayabolen A, Yalcin O"
   venue: "Blood"
   year: 2023
@@ -171,7 +171,7 @@
 
 # PhD Thesis
 - type: "thesis"
-  title: "The Role of PFKFB2 on oncogenic transformation of pancreatic epithelial cells"
+  title: "The role of PFKFB2 on oncogenic transformation of pancreatic epithelial cells"
   authors: "Ozcan SC"
   venue: "Uludag University"
   year: 2018
