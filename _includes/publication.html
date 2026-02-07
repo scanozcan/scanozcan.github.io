@@ -3,9 +3,6 @@
   <div class="pub-authors">{{ pub.authors }}</div>
   <div class="pub-venue">{{ pub.venue }}, {{ pub.year }}</div>
   <div class="pub-links">
-    {% if pub.links.pdf and pub.links.pdf != "#" %}
-      <a href="{{ pub.links.pdf }}" class="pub-link">[PDF]</a>
-    {% endif %}
     {% if pub.links.doi and pub.links.doi != "#" %}
       <a href="{{ pub.links.doi }}" class="pub-link">[DOI]</a>
     {% endif %}

@@ -156,10 +156,25 @@ I love fooling around with plasmids and DNA sequences! I also enjoy exploring di
 
 ## News
 
-**January 2026**: Our preprint on the metabolic dependencies of cells with centrosome amplification was published on bioRxiv.  
+**January 2026**: Our preprint on the metabolic dependencies of cells with centrosome amplification was published on bioRxiv.
 **January 2026**: Our preprint on the cell-cycle-dependent interactome of Nek2 was published on bioRxiv.
 
-**Office**: Russ Berrie Pavilion, Room 606  
+{% if site.posts.size > 0 %}
+## Blog Posts
+
+<ul class="post-list">
+  {% for post in site.posts %}
+  <li>
+    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <h3>
+      <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+    </h3>
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+**Office**: Russ Berrie Pavilion, Room 606<br>
 **Address**: 1150 St. Nicholas Ave, New York, NY 10032
 
 <!-- Social Links - Now with your custom Bluesky SVG -->

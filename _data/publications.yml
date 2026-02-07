@@ -128,7 +128,7 @@
   volume: "142"
   pages: "2445"
   links:
-    doi: "#"
+    doi: "https://doi.org/10.1182/blood-2023-179111"
 
 - type: "congress"
   title: "A deep learning model for automated segmentation of fluorescence cell images"
@@ -148,8 +148,7 @@
   year: 2016
   volume: "283"
   pages: "186-186"
-  links:
-    doi: "#"
+  links: {}
 
 # Pre-prints
 - type: "preprint"
@@ -158,7 +157,8 @@
   venue: "bioRxiv"
   year: 2026
   links:
-    pdf: "https://www.biorxiv.org/content/10.1101/2026.01.xx.xxxxxx"
+    pdf: "https://www.biorxiv.org/content/10.64898/2026.01.24.701523v1"
+    doi: "https://doi.org/10.64898/2026.01.24.701523"
 
 - type: "preprint"
   title: "Proximity labeling reveals cell cycle-specific NEK2 interactions and a regulatory axis controlling NUSAP1 stability"
@@ -166,7 +166,8 @@
   venue: "bioRxiv"
   year: 2026
   links:
-    pdf: "https://www.biorxiv.org/content/10.1101/2026.01.xx.xxxxxx"
+    pdf: "https://www.biorxiv.org/content/10.64898/2026.01.25.701545v1"
+    doi: "https://doi.org/10.64898/2026.01.25.701545"
 
 - type: "preprint"
   title: "RESTRICT-seq enables time-gated CRISPR screens and uncovers novel epigenetic dependencies of SCC resistance"
@@ -174,4 +175,5 @@
   venue: "bioRxiv"
   year: 2025
   links:
-    pdf: "https://www.biorxiv.org/content/10.1101/2025.xx.xx.xxxxxx"
+    pdf: "https://www.biorxiv.org/content/10.1101/2025.09.17.676440v1"
+    doi: "https://doi.org/10.1101/2025.09.17.676440"

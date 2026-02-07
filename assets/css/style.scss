@@ -238,6 +238,11 @@ pre, code {
   }
 }
 
+// Make page titles consistent (smaller) across Publications and Blog
+.post-title {
+  font-size: 1.5rem !important;
+}
+
 // Profile photo styling for portrait images (1024x1536)
 .profile-photo {
   float: right;
