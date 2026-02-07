@@ -26,12 +26,12 @@ I love fooling around with plasmids and DNA sequences! I also enjoy exploring di
 - **Postdoctoral Researcher**, Chio Lab, Columbia University *(Feb 2024 – Sep 2025)*
 - **Postdoctoral Researcher**, CAA Lab, Koç University *(Aug 2019 – Dec 2023)*
 - **Visiting Researcher**, Chesney Lab, University of Louisville *(Jul 2014 – Apr 2015)*
-- **Research Assistant**, Biochemistry Dept., Uludag University *(Jan 2012 – Sep 2018)*
+- **Research Assistant**, Yalçın Lab, Uludağ University *(Jan 2012 – Sep 2018)*
 
 ## Education
 
-- **Ph.D. in Biochemistry**, Uludag University *(2012 – 2018)*
-- **D.V.M**, Uludag University *(2006 – 2011)*
+- **Ph.D. in Biochemistry**, Uludağ University *(2012 – 2018)*
+- **D.V.M**, Uludağ University *(2006 – 2011)*
 
 ## Skills & Interests
 
@@ -39,7 +39,7 @@ I love fooling around with plasmids and DNA sequences! I also enjoy exploring di
   
   <!-- Left Column: Technical Skills -->
   <div>
-    <h3 style="margin-top: 0; margin-bottom: 15px; color: #2c3e50;">Technical Skills</h3>
+    <h3 style="margin-top: 0; margin-bottom: 15px; color: #072d52;">Technical Skills</h3>
     
     <!-- Wet-lab -->
     <div style="margin-bottom: 4px;">
@@ -92,7 +92,7 @@ I love fooling around with plasmids and DNA sequences! I also enjoy exploring di
   
   <!-- Right Column: Hobbies & Personal Interests -->
   <div>
-    <h3 style="margin-top: 0; margin-bottom: 15px; color: #2c3e50;">Hobbies & Personal Interests</h3>
+    <h3 style="margin-top: 0; margin-bottom: 15px; color: #c8147a;">Hobbies & Personal Interests</h3>
     
     <!-- Hiking & Photography -->
     <div style="margin-bottom: 4px;">
