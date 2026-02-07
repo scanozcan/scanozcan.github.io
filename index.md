@@ -156,8 +156,7 @@ I love fooling around with plasmids and DNA sequences! I also enjoy exploring di
 
 ## News
 
-**January 2026**: Our preprint on the metabolic dependencies of cells with centrosome amplification was published on bioRxiv.
-
+**January 2026**: Our preprint on the metabolic dependencies of cells with centrosome amplification was published on bioRxiv.<br>
 **January 2026**: Our preprint on the cell-cycle-dependent interactome of Nek2 was published on bioRxiv.
 
 {% if site.posts.size > 0 %}
