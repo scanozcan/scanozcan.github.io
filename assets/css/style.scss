@@ -82,6 +82,58 @@ a[href^="http"] {
   color: var(--text-secondary) !important;
 }
 
+.footer-content {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.footer-contact {
+  margin-bottom: 12px;
+
+  p {
+    margin: 2px 0;
+    font-size: 0.85em;
+    color: var(--text-secondary);
+  }
+}
+
+.footer-icons {
+  display: flex;
+  justify-content: center;
+  gap: 18px;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+
+  a {
+    text-decoration: none;
+    color: var(--text-secondary) !important;
+  }
+}
+
+.footer-copyright {
+  text-align: center;
+  font-size: 0.8em;
+  color: var(--text-muted);
+  margin: 0;
+}
+
+// "View all" links
+.view-all {
+  text-align: right;
+  margin-top: -25px;
+  margin-bottom: 20px;
+  font-size: 0.85em;
+
+  a {
+    color: var(--text-muted) !important;
+    font-weight: normal;
+
+    &:hover {
+      color: var(--text-color) !important;
+    }
+  }
+}
+
 // Post content
 .post-content, .page-content {
   h1, h2, h3, h4, h5, h6 {
@@ -230,7 +282,7 @@ pre, code {
   }
 
   &:hover .fa-graduation-cap {
-    color: #2c3e50;
+    color: #2a7ae2;
   }
 }
 
