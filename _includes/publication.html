@@ -1,6 +1,6 @@
 <div class="publication{% if pub.highlight %} publication-highlight{% endif %}">
   <div class="pub-title">{{ pub.title }}</div>
-  <div class="pub-authors">{{ pub.authors }}</div>
+  <div class="pub-authors">{{ pub.authors | replace: "Ozcan SC", "<strong>Ozcan SC</strong>" }}</div>
   <div class="pub-venue">{{ pub.venue }}, {{ pub.year }}</div>
   <div class="pub-icons">
     {% if pub.links.doi and pub.links.doi != "#" %}

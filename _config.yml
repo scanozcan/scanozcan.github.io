@@ -2,15 +2,12 @@
 title: "About"
 description: "OzcanSC"
 author: "Can Özcan"
-email: your.email@university.edu
-baseurl: "" # subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+email: so2716@cumc.columbia.edu
+baseurl: ""
+url: "https://scanozcan.github.io"
 
 # Social links
-twitter_username: yourusername
-github_username: yourusername
-linkedin_username: yourusername
-google_scholar: # Your Google Scholar ID
+github_username: scanozcan
 
 # Build settings
 theme: minima

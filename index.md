@@ -4,12 +4,7 @@ title: About
 permalink: /
 ---
 
-<!-- Academicons for academic icons -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css">
-<!-- Font Awesome for remaining icons -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-
-<!-- Profile photo - replace with your image -->
+<!-- Profile photo -->
 <img src="{{ '/assets/images/profile.png' | relative_url }}" alt="Profile Photo" class="profile-photo">
 
 # Selahattin Can Özcan
@@ -172,34 +167,45 @@ I love fooling around with plasmids and DNA sequences! I also enjoy exploring di
   </div>
 </div>
 
-<style>
-@media (max-width: 768px) {
-  div[style*="grid-template-columns: 1fr 1fr"] {
-    grid-template-columns: 1fr !important;
-    gap: 20px !important;
-  }
-}
-</style>
-
-
+{% assign news_posts = site.posts | where: "categories", "news" %}
+{% if news_posts.size > 0 %}
 ## News
 
-**January 2026**: Our preprint on the metabolic dependencies of cells with centrosome amplification was published on bioRxiv.<br>
-**January 2026**: Our preprint on the cell-cycle-dependent interactome of Nek2 was published on bioRxiv.
-
-{% if site.posts.size > 0 %}
-## Recent Posts
-
-<ul class="post-list">
-  {% for post in site.posts limit:2 %}
-  <li>
-    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-    <h3>
-      <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-    </h3>
-  </li>
+<div class="publications-grid">
+  {% for post in news_posts limit:2 %}
+  <div class="publication-item">
+    <div class="publication">
+      <div class="pub-title">
+        <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        {% if post.doi %}
+          <a href="{{ post.doi }}" class="pub-icon-link" title="DOI">
+            <i class="ai ai-doi"></i>
+          </a>
+        {% endif %}
+      </div>
+      <div class="pub-venue">{{ post.date | date: "%b %-d, %Y" }}</div>
+    </div>
+  </div>
   {% endfor %}
-</ul>
+</div>
+{% endif %}
+
+{% assign blog_posts = site.posts | where: "categories", "general" %}
+{% if blog_posts.size > 0 %}
+## Recent Blog Posts
+
+<div class="publications-grid">
+  {% for post in blog_posts limit:4 %}
+  <div class="publication-item">
+    <div class="publication">
+      <div class="pub-title">
+        <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      </div>
+      <div class="pub-venue">{{ post.date | date: "%b %-d, %Y" }}</div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
 {% endif %}
 
 <div style="margin-top: 40px;" markdown="1">
@@ -260,94 +266,3 @@ I love fooling around with plasmids and DNA sequences! I also enjoy exploring di
 
 <div style="clear: both;"></div>
 
-<style>
-  /* Icon styling - Unified for all icon types */
-  .icon-container i, .icon-container svg {
-    font-size: 28px;
-    width: 28px;
-    height: 28px;
-    transition: all 0.2s cubic-bezier(0.34, 1.56, 0.64, 1); /* Bouncy easing function */
-    vertical-align: middle;
-  }
-  
-  /* Academicons specific styling */
-  .ai {
-    font-family: 'Academicons' !important;
-    font-style: normal;
-    -webkit-font-smoothing: antialiased;
-  }
-  
-  /* Make Academicons match Font Awesome size better */
-  .ai-google-scholar, .ai-orcid {
-    font-size: 26px; /* Slight adjustment for visual balance */
-  }
-  
-  /* ORCID - inherits color from parent */
-  .ai-orcid {
-    color: inherit;
-  }
-  
-  /* Icon container hover effects - UNIFORM SCALING */
-  .icon-container a:hover i, .icon-container a:hover svg {
-    opacity: 0.9;
-    transform: scale(1.15); /* Expands equally in all directions */
-  }
-  
-  /* Brand color on hover - Academicons */
-  .icon-container a:hover .ai-google-scholar {
-    color: #4285F4; /* Google blue on hover */
-  }
-  
-  .icon-container a:hover .ai-orcid {
-    color: #A6CE39; /* ORCID green on hover */
-  }
-  
-  /* Brand color on hover - Font Awesome & SVG */
-  .icon-container a:hover .fa-envelope {
-    color: #EA4335; /* Gmail red */
-  }
-  
-  .icon-container a:hover .fa-github {
-    color: #6e5494; /* GitHub purple */
-  }
-  
-  .icon-container a:hover .fa-linkedin {
-    color: #0077b5; /* LinkedIn blue */
-  }
-  
-  .icon-container a:hover svg[viewBox="0 0 40 40"] {
-    color: #0285FF; /* Bluesky blue */
-  }
-  
-  .icon-container a:hover .fa-instagram {
-    color: #e4405f; /* Instagram pink */
-  }
-
-  .icon-container a:hover .spotify-icon {
-    color: #1DB954; /* Spotify green */
-  }
-  
-  /* Default colors */
-  .icon-container i, .icon-container svg {
-    color: inherit; /* All icons inherit text color */
-  }
-  
-  /* Responsive adjustments */
-  @media (max-width: 600px) {
-    .icon-container {
-      gap: 15px;
-    }
-    .icon-container i, .icon-container svg {
-      font-size: 24px;
-      width: 24px;
-      height: 24px;
-    }
-    .ai-google-scholar, .ai-orcid {
-      font-size: 22px;
-    }
-    /* Slightly smaller scale on mobile */
-    .icon-container a:hover i, .icon-container a:hover svg {
-      transform: scale(1.12);
-    }
-  }
-</style>
