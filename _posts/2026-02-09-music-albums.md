@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Recent albums that I like"
-date: 2026-02-09
+title: "Some albums that I like"
+date: 2026-02-06
 categories: general
 ---
 
