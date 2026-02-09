@@ -102,7 +102,7 @@ permalink: /resume/
 
 <div class="skill-box skill-box-hobby" style="max-width: 300px;">
   <ul>
-    <li><a href="{{ '/general/2026/02/09/music-albums.html' | relative_url }}" style="color: inherit; text-decoration: none;">Classical music & piano</a></li>
+    <li><a href="{{ '/general/2026/02/09/music-albums.html' | relative_url }}" class="secret-link">Classical music & piano</a></li>
     <li>Hiking & photography</li>
     <li>Cats & dogs</li>
     <li>Stand-up comedy</li>
