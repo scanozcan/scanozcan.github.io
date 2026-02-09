@@ -81,10 +81,11 @@ permalink: /resume/
     <h3>Experimental</h3>
     <ul>
       <li>CRISPR screens</li>
-      <li>Proximity labeling (BioID/TurboID)</li>
+      <li>Proximity proteomics</li>
       <li>Flow cytometry / FACS</li>
       <li>Fluorescence microscopy</li>
       <li>Metabolic assays</li>
+      <li>in vivo experiments</li>
     </ul>
   </div>
   <div class="skill-box skill-box-comp">
