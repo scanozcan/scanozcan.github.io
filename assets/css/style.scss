@@ -654,8 +654,11 @@ a.back-link:active {
 }
 
 // Secret link (visually identical to surrounding text)
-.secret-link {
-  color: inherit !important;
+.secret-link,
+.secret-link:visited,
+.secret-link:hover,
+.secret-link:active {
+  color: var(--text-secondary) !important;
   text-decoration: none !important;
 }
 
