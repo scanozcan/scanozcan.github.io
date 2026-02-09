@@ -70,11 +70,11 @@ permalink: /resume/
     <ul>
       <li>Cancer biology & metabolism</li>
       <li>Chromosomal instability</li>
-      <li>Centrosome biology</li>
-      <li>Epigenetic regulation</li>
       <li>Mammalian regeneration</li>
       <li>Forward genomics</li>
       <li>Evolutionary game theory</li>
+      <li>Centrosome biology</li>
+      <li>Epigenetic regulation</li>
     </ul>
   </div>
   <div class="skill-box skill-box-exp">
@@ -92,7 +92,6 @@ permalink: /resume/
     <ul>
       <li>R / RStudio</li>
       <li>Python</li>
-      <li>Seurat</li>
       <li>Genomic data analysis</li>
     </ul>
   </div>
@@ -102,10 +101,10 @@ permalink: /resume/
 
 <div class="skill-box skill-box-hobby" style="max-width: 300px;">
   <ul>
+    <li>Classical music & piano</li>
     <li>Hiking & photography</li>
     <li>Cats & dogs</li>
     <li>Stand-up comedy</li>
-    <li>Classical music & piano</li>
     <li>Art films</li>
   </ul>
 </div>
