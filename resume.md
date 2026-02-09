@@ -85,7 +85,7 @@ permalink: /resume/
       <li>Flow cytometry / FACS</li>
       <li>Fluorescence microscopy</li>
       <li>Metabolic assays</li>
-      <li>in vivo experiments</li>
+      <li>in vivo models</li>
     </ul>
   </div>
   <div class="skill-box skill-box-comp">
