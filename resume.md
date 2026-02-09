@@ -64,44 +64,48 @@ permalink: /resume/
 
 ## Technical Skills
 
-<div class="skills-section">
-
-<h3>Research Areas</h3>
-<div class="skill-tags">
-  <span class="skill-tag tag-area">cancer biology & metabolism</span>
-  <span class="skill-tag tag-area">chromosomal instability</span>
-  <span class="skill-tag tag-area">centrosome biology</span>
-  <span class="skill-tag tag-area">epigenetic regulation</span>
-  <span class="skill-tag tag-area">mammalian regeneration</span>
-  <span class="skill-tag tag-area">forward genomics</span>
-  <span class="skill-tag tag-area">evolutionary game theory</span>
-</div>
-
-<h3>Experimental</h3>
-<div class="skill-tags">
-  <span class="skill-tag tag-exp">CRISPR screens</span>
-  <span class="skill-tag tag-exp">proximity labeling (BioID/TurboID)</span>
-  <span class="skill-tag tag-exp">flow cytometry / FACS</span>
-  <span class="skill-tag tag-exp">fluorescence microscopy</span>
-  <span class="skill-tag tag-exp">metabolic assays</span>
-</div>
-
-<h3>Computational & Data Analysis</h3>
-<div class="skill-tags">
-  <span class="skill-tag tag-comp">R / RStudio</span>
-  <span class="skill-tag tag-comp">Python</span>
-  <span class="skill-tag tag-comp">Seurat</span>
-  <span class="skill-tag tag-comp">genomic data analysis</span>
-</div>
-
+<div class="skills-grid">
+  <div class="skill-box skill-box-area">
+    <h3>Research Areas</h3>
+    <ul>
+      <li>Cancer biology & metabolism</li>
+      <li>Chromosomal instability</li>
+      <li>Centrosome biology</li>
+      <li>Epigenetic regulation</li>
+      <li>Mammalian regeneration</li>
+      <li>Forward genomics</li>
+      <li>Evolutionary game theory</li>
+    </ul>
+  </div>
+  <div class="skill-box skill-box-exp">
+    <h3>Experimental</h3>
+    <ul>
+      <li>CRISPR screens</li>
+      <li>Proximity labeling (BioID/TurboID)</li>
+      <li>Flow cytometry / FACS</li>
+      <li>Fluorescence microscopy</li>
+      <li>Metabolic assays</li>
+    </ul>
+  </div>
+  <div class="skill-box skill-box-comp">
+    <h3>Computational</h3>
+    <ul>
+      <li>R / RStudio</li>
+      <li>Python</li>
+      <li>Seurat</li>
+      <li>Genomic data analysis</li>
+    </ul>
+  </div>
 </div>
 
 ## Hobbies & Personal Interests
 
-<div class="skill-tags">
-  <span class="skill-tag tag-hobby">hiking & photography</span>
-  <span class="skill-tag tag-hobby">cats & dogs</span>
-  <span class="skill-tag tag-hobby">stand-up comedy</span>
-  <span class="skill-tag tag-hobby">classical music & piano</span>
-  <span class="skill-tag tag-hobby">art films</span>
+<div class="skill-box skill-box-hobby" style="max-width: 300px;">
+  <ul>
+    <li>Hiking & photography</li>
+    <li>Cats & dogs</li>
+    <li>Stand-up comedy</li>
+    <li>Classical music & piano</li>
+    <li>Art films</li>
+  </ul>
 </div>

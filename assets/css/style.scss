@@ -576,6 +576,82 @@ a.back-link:active {
   margin-bottom: 40px;
 }
 
+// Skills grid - 3 columns
+.skills-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+  margin-bottom: 30px;
+
+  @media (max-width: 768px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.skill-box {
+  padding: 16px 20px;
+  border-radius: 8px;
+  border-top: 3px solid;
+
+  h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 0.95em;
+    font-weight: 700;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    li {
+      font-size: 0.88em;
+      padding: 3px 0;
+      color: var(--text-secondary);
+    }
+  }
+}
+
+.skill-box-area {
+  border-color: #7c6bb5;
+  background-color: rgba(124, 107, 181, 0.06);
+}
+
+.skill-box-exp {
+  border-color: #3a8a5c;
+  background-color: rgba(58, 138, 92, 0.06);
+}
+
+.skill-box-comp {
+  border-color: #3a7cc0;
+  background-color: rgba(58, 124, 192, 0.06);
+}
+
+.skill-box-hobby {
+  border-color: #c09040;
+  background-color: rgba(192, 144, 64, 0.06);
+}
+
+[data-theme="dark"] {
+  .skill-box-area {
+    border-color: #9b8dd4;
+    background-color: rgba(155, 141, 212, 0.08);
+  }
+  .skill-box-exp {
+    border-color: #5cb88a;
+    background-color: rgba(92, 184, 138, 0.08);
+  }
+  .skill-box-comp {
+    border-color: #6db3f2;
+    background-color: rgba(109, 179, 242, 0.08);
+  }
+  .skill-box-hobby {
+    border-color: #d4a84e;
+    background-color: rgba(212, 168, 78, 0.08);
+  }
+}
+
 // Resume description text
 .resume-description {
   font-size: 0.85em;
