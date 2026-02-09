@@ -316,23 +316,43 @@ a.back-link:active {
   font-size: 1.5rem !important;
 }
 
-// Profile photo styling for portrait images (1024x1536)
+// Bio section layout
+.bio-section {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  margin-bottom: 10px;
+
+  @media screen and (max-width: 600px) {
+    flex-direction: column-reverse;
+    text-align: center;
+  }
+}
+
+.bio-text {
+  flex: 1;
+  text-align: justify;
+
+  @media screen and (max-width: 600px) {
+    text-align: justify;
+  }
+}
+
+// Profile photo styling
 .profile-photo {
-  float: right;
-  margin-left: 20px;
-  margin-bottom: 15px;
   width: 160px;
+  min-width: 160px;
   height: 240px;
   object-fit: cover;
   border-radius: 10px;
   border: 2px solid var(--border-color);
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  float: none;
+  margin: 0;
 
   @media screen and (max-width: 600px) {
-    float: none;
-    display: block;
-    margin: 0 auto 30px;
     width: 140px;
+    min-width: 140px;
     height: 210px;
   }
 }
@@ -473,4 +493,114 @@ a.back-link:active {
 
 .pub-links {
   font-size: 0.8em !important;
+}
+
+// CV download link
+.cv-download {
+  display: inline-flex;
+  align-items: center;
+  padding: 8px 18px;
+  border: 1.5px solid var(--border-color);
+  border-radius: 6px;
+  font-size: 0.9em;
+  font-weight: 600;
+  color: var(--text-color) !important;
+  text-decoration: none !important;
+  transition: all 0.2s ease;
+  margin-bottom: 1.5rem;
+
+  &:hover {
+    border-color: var(--link-color);
+    background-color: var(--highlight-bg);
+    text-decoration: none !important;
+  }
+}
+
+// Resume single-column list
+.resume-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-bottom: 40px;
+}
+
+// Resume description text
+.resume-description {
+  font-size: 0.85em;
+  color: var(--text-secondary);
+  margin-top: 4px;
+  line-height: 1.4;
+}
+
+// Skill tags
+.skills-section h3 {
+  font-size: 1em;
+  margin-top: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.skill-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 0.5rem;
+}
+
+.skill-tag {
+  display: inline-block;
+  padding: 4px 12px;
+  border-radius: 16px;
+  font-size: 0.85em;
+  font-weight: 500;
+  border: 1.5px solid;
+}
+
+.tag-exp {
+  color: #11783c;
+  border-color: #11783c;
+  background-color: rgba(17, 120, 60, 0.08);
+}
+
+.tag-comp {
+  color: #2a7ae2;
+  border-color: #2a7ae2;
+  background-color: rgba(42, 122, 226, 0.08);
+}
+
+.tag-area {
+  color: #8b5cf6;
+  border-color: #8b5cf6;
+  background-color: rgba(139, 92, 246, 0.08);
+}
+
+.tag-hobby {
+  color: #e7880b;
+  border-color: #e7880b;
+  background-color: rgba(231, 136, 11, 0.08);
+}
+
+[data-theme="dark"] {
+  .tag-exp {
+    color: #4ade80;
+    border-color: #4ade80;
+    background-color: rgba(74, 222, 128, 0.1);
+  }
+
+  .tag-comp {
+    color: #6db3f2;
+    border-color: #6db3f2;
+    background-color: rgba(109, 179, 242, 0.1);
+  }
+
+  .tag-area {
+    color: #a78bfa;
+    border-color: #a78bfa;
+    background-color: rgba(167, 139, 250, 0.1);
+  }
+
+  .tag-hobby {
+    color: #fbbf24;
+    border-color: #fbbf24;
+    background-color: rgba(251, 191, 36, 0.1);
+  }
 }

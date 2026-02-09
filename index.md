@@ -4,167 +4,19 @@ title: About
 permalink: /
 ---
 
-<!-- Profile photo -->
-<img src="{{ '/assets/images/profile.png' | relative_url }}" alt="Profile Photo" class="profile-photo">
-
 # Selahattin Can Özcan
 
 ### Cancer Biology | Forward Genomics | Regeneration | Data Analysis
+
+<div class="bio-section">
+  <div class="bio-text" markdown="1">
 
 I am currently a researcher at the **[SRSP Lab](https://woappilab.com)** at **[Columbia University](https://www.columbia.edu)**, where I use highly multiplexed CRISPR screens to investigate mammalian regeneration in skin wounds. My expertise also spans cancer biology & metabolism, chromosomal instability, proximity proteomics, and the epigenetic regulation of stem cell differentiation.
 
 I love fooling around with plasmids and DNA sequences! I also enjoy exploring diverse datasets. Looking ahead, I aim to apply evolutionary game theory to understand cellular decision-making and cell-cell communication in cancer and tissue biology.
 
-## Work Experience
-
-- **Associate Research Scientist**, Woappi Lab, Columbia University *(Oct 2025 – Present)*
-- **Postdoctoral Researcher**, Chio Lab, Columbia University *(Feb 2024 – Sep 2025)*
-- **Postdoctoral Researcher**, CAA Lab, Koç University *(Aug 2019 – Dec 2023)*
-- **Visiting Researcher**, Chesney Lab, University of Louisville *(Jul 2014 – Apr 2015)*
-- **Research Assistant**, Yalçın Lab, Uludağ University *(Jan 2012 – Sep 2018)*
-
-## Education
-
-- **Ph.D. in Biochemistry**, Uludağ University *(2012 – 2018)*
-- **D.V.M**, Uludağ University *(2006 – 2011)*
-
-## Skills & Interests
-
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px; margin-bottom: 30px;">
-  
-  <!-- Left Column: Technical Skills -->
-  <div>
-    <h3 style="margin-top: 0; margin-bottom: 15px; color: #2c3e50;">Technical Skills</h3>
-    
-    <!-- Wet-lab -->
-    <div style="margin-bottom: 2px;">
-      <div style="font-size: 0.95em; margin-bottom: 2px; font-weight: 500;">Wet-lab</div>
-      <div style="display: flex; gap: 6px;">
-        <span style="color: #11783c; font-size: 1.3em;">●</span>
-        <span style="color: #11783c; font-size: 1.3em;">●</span>
-        <span style="color: #11783c; font-size: 1.3em;">●</span>
-        <span style="color: #11783c; font-size: 1.3em;">●</span>
-        <span style="color: #11783c; font-size: 1.3em;">●</span>
-      </div>
-    </div>
-    
-    <!-- Writing -->
-    <div style="margin-bottom: 2px;">
-      <div style="font-size: 0.95em; margin-bottom: 2px; font-weight: 500;">Writing</div>
-      <div style="display: flex; gap: 6px;">
-        <span style="color: #11783c; font-size: 1.3em;">●</span>
-        <span style="color: #11783c; font-size: 1.3em;">●</span>
-        <span style="color: #11783c; font-size: 1.3em;">●</span>
-        <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
-        <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
-      </div>
-    </div>
-    
-
-    <!-- Teaching -->
-    <div style="margin-bottom: 2px;">
-      <div style="font-size: 0.95em; margin-bottom: 2px; font-weight: 500;">Teaching</div>
-      <div style="display: flex; gap: 6px;">
-        <span style="color: #11783c; font-size: 1.3em;">●</span>
-        <span style="color: #11783c; font-size: 1.3em;">●</span>
-        <span style="color: #11783c; font-size: 1.3em;">●</span>
-        <span style="color: #11783c; font-size: 1.3em;">●</span>
-        <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
-      </div>
-    </div>
-
-
-    <!-- Python -->
-    <div style="margin-bottom: 2px;">
-      <div style="font-size: 0.95em; margin-bottom: 2px; font-weight: 500;">Python</div>
-      <div style="display: flex; gap: 6px;">
-        <span style="color: #11783c; font-size: 1.3em;">●</span>
-        <span style="color: #11783c; font-size: 1.3em;">●</span>
-        <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
-        <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
-        <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
-      </div>
-    </div>
-    
-    <!-- R & RStudio -->
-    <div style="margin-bottom: 2px;">
-      <div style="font-size: 0.95em; margin-bottom: 2px; font-weight: 500;">R & RStudio</div>
-      <div style="display: flex; gap: 6px;">
-        <span style="color: #11783c; font-size: 1.3em;">●</span>
-        <span style="color: #11783c; font-size: 1.3em;">●</span>
-        <span style="color: #11783c; font-size: 1.3em;">●</span>
-        <span style="color: #11783c; font-size: 1.3em;">●</span>
-        <span style="color: #11783c; font-size: 1.3em;">●</span>
-      </div>
-    </div>
   </div>
-  
-  <!-- Right Column: Hobbies & Personal Interests -->
-  <div>
-    <h3 style="margin-top: 0; margin-bottom: 15px; color: #2c3e50;">Hobbies & Personal Interests</h3>
-    
-    <!-- Hiking & Photography -->
-    <div style="margin-bottom: 2px;">
-      <div style="font-size: 0.95em; margin-bottom: 2px; font-weight: 500;">Hiking & Photography</div>
-      <div style="display: flex; gap: 6px;">
-        <span style="color: #e7880b; font-size: 1.3em;">●</span>
-        <span style="color: #e7880b; font-size: 1.3em;">●</span>
-        <span style="color: #e7880b; font-size: 1.3em;">●</span>
-        <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
-        <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
-      </div>
-    </div>
-    
-    <!-- Cats & Dogs -->
-    <div style="margin-bottom: 2px;">
-      <div style="font-size: 0.95em; margin-bottom: 2px; font-weight: 500;">Cats & Dogs</div>
-      <div style="display: flex; gap: 6px;">
-        <span style="color: #e7880b; font-size: 1.3em;">●</span>
-        <span style="color: #e7880b; font-size: 1.3em;">●</span>
-        <span style="color: #e7880b; font-size: 1.3em;">●</span>
-        <span style="color: #e7880b; font-size: 1.3em;">●</span>
-        <span style="color: #e7880b; font-size: 1.3em;">●</span>
-      </div>
-    </div>
-
-    <!-- Stand-up Comedy -->
-    <div style="margin-bottom: 2px;">
-      <div style="font-size: 0.95em; margin-bottom: 2px; font-weight: 500;">Stand-up Comedy</div>
-      <div style="display: flex; gap: 6px;">
-        <span style="color: #e7880b; font-size: 1.3em;">●</span>
-        <span style="color: #e7880b; font-size: 1.3em;">●</span>
-        <span style="color: #e7880b; font-size: 1.3em;">●</span>
-        <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
-        <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
-      </div>
-    </div>
-    
-    
-    <!-- Classical Music & Piano -->
-    <div style="margin-bottom: 2px;">
-      <div style="font-size: 0.95em; margin-bottom: 2px; font-weight: 500;">Classical Music & Piano</div>
-      <div style="display: flex; gap: 6px;">
-        <span style="color: #e7880b; font-size: 1.3em;">●</span>
-        <span style="color: #e7880b; font-size: 1.3em;">●</span>
-        <span style="color: #e7880b; font-size: 1.3em;">●</span>
-        <span style="color: #e7880b; font-size: 1.3em;">●</span>
-        <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
-      </div>
-    </div>
-
-
-    <!-- Art Films -->
-    <div style="margin-bottom: 2px;">
-      <div style="font-size: 0.95em; margin-bottom: 2px; font-weight: 500;">Art Films</div>
-      <div style="display: flex; gap: 6px;">
-        <span style="color: #e7880b; font-size: 1.3em;">●</span>
-        <span style="color: #e7880b; font-size: 1.3em;">●</span>
-        <span style="color: #e7880b; font-size: 1.3em;">●</span>
-        <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
-        <span style="color: #e0e0e0; font-size: 1.3em;">○</span>
-      </div>
-    </div>
-  </div>
+  <img src="{{ '/assets/images/profile.png' | relative_url }}" alt="Profile Photo" class="profile-photo">
 </div>
 
 {% assign news_posts = site.posts | where: "categories", "news" %}

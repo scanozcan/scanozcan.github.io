@@ -18,6 +18,7 @@ plugins:
 # Navigation
 header_pages:
   - index.md
+  - resume.md
   - publications.md
   - blog.md
 
