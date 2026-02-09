@@ -66,6 +66,17 @@ permalink: /resume/
 
 <div class="skills-section">
 
+<h3>Research Areas</h3>
+<div class="skill-tags">
+  <span class="skill-tag tag-area">cancer biology & metabolism</span>
+  <span class="skill-tag tag-area">chromosomal instability</span>
+  <span class="skill-tag tag-area">centrosome biology</span>
+  <span class="skill-tag tag-area">epigenetic regulation</span>
+  <span class="skill-tag tag-area">mammalian regeneration</span>
+  <span class="skill-tag tag-area">forward genomics</span>
+  <span class="skill-tag tag-area">evolutionary game theory</span>
+</div>
+
 <h3>Experimental</h3>
 <div class="skill-tags">
   <span class="skill-tag tag-exp">CRISPR screens</span>
@@ -81,18 +92,6 @@ permalink: /resume/
   <span class="skill-tag tag-comp">Python</span>
   <span class="skill-tag tag-comp">Seurat</span>
   <span class="skill-tag tag-comp">genomic data analysis</span>
-</div>
-
-<h3>Research Areas</h3>
-<div class="skill-tags">
-  <span class="skill-tag tag-area">cancer biology & metabolism</span>
-  <span class="skill-tag tag-area">chromosomal instability</span>
-  <span class="skill-tag tag-area">centrosome biology</span>
-  <span class="skill-tag tag-area">epigenetic regulation</span>
-  <span class="skill-tag tag-area">stem cell differentiation</span>
-  <span class="skill-tag tag-area">mammalian regeneration</span>
-  <span class="skill-tag tag-area">forward genomics</span>
-  <span class="skill-tag tag-area">evolutionary game theory</span>
 </div>
 
 </div>
