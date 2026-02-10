@@ -41,10 +41,11 @@
     // Apply theme immediately (before DOM loads to prevent flash)
     setTheme(getPreferredTheme());
 
-    // Listen for system theme changes - always follow system when it changes
+    // Listen for system theme changes - only follow if user hasn't set a preference
     window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(e) {
-      localStorage.removeItem(THEME_KEY);
-      setTheme(e.matches ? 'dark' : 'light');
+      if (!localStorage.getItem(THEME_KEY)) {
+        setTheme(e.matches ? 'dark' : 'light');
+      }
     });
 
     // Initialize toggle button when DOM is ready
