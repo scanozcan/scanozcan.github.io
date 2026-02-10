@@ -71,7 +71,7 @@ permalink: /resume/
       <li>Cancer biology & metabolism</li>
       <li>Chromosomal instability</li>
       <li>Mammalian regeneration</li>
-      <li>Forward genomics</li>
+      <li>Functional genomics</li>
       <li>Evolutionary game theory</li>
       <li>Centrosome biology</li>
       <li>Epigenetic regulation</li>

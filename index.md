@@ -6,14 +6,14 @@ permalink: /
 
 # Selahattin Can Özcan
 
-### Cancer Biology | Forward Genomics | Regeneration | Data Analysis
+### Cancer Biology | Functional Genomics | Regeneration | CRISPR Screens
 
 <div class="bio-section">
   <div class="bio-text" markdown="1">
 
-I am currently a researcher at the **[SRSP Lab](https://woappilab.com)** at **[Columbia University](https://www.columbia.edu)**, where I use highly multiplexed CRISPR screens to investigate mammalian regeneration in skin wounds. My expertise also spans cancer biology & metabolism, chromosomal instability, proximity proteomics, and the epigenetic regulation of stem cell differentiation.
+I'm a biologist interested in how cells make fate decisions during tissue repair and in cancer. Currently at the **[SRSP Lab](https://woappilab.com)** at **[Columbia University](https://www.columbia.edu)**, I use highly multiplexed CRISPR screens to dissect the genetic programs driving mammalian skin wound regeneration. My background also spans cancer metabolism, chromosomal instability, and epigenetic regulation of stem cell differentiation.
 
-I love fooling around with plasmids and DNA sequences! I also enjoy exploring diverse datasets. Looking ahead, I aim to apply evolutionary game theory to understand cellular decision-making and cell-cell communication in cancer and tissue biology.
+I love fooling around with plasmids and DNA sequences! I also enjoy exploring diverse datasets. I'm increasingly interested in applying evolutionary game theory to understand cellular decision-making and cell-cell communication in cancer and tissue biology.
 
   </div>
   <img src="{{ '/assets/images/profile.png' | relative_url }}" alt="Profile Photo" class="profile-photo">
