@@ -86,7 +86,7 @@ categories: general
     <img src="{{ '/assets/images/albums/yunchan-lim-chopin-etudes.jpg' | relative_url }}" alt="Chopin: Études - Yunchan Lim" class="album-cover">
     <div class="album-info">
       <div class="pub-title">
-        Chopin: Études, Opp. 10 & 25
+        Chopin: Études, Op. 10 & 25
         <span class="album-icons">
           <a href="https://app.idagio.com/albums/chopin-etudes-opp-10-and-25-4CBCEA2C-2673-4669-AD3F-24B2681A0E16" style="text-decoration: none; color: inherit;" title="Listen on IDAGIO" class="idagio-album-icon">
             <svg width="20" height="20" viewBox="140 124 200 232" fill="currentColor" style="vertical-align: middle;"><path d="M231.998,344.0026 L231.998,296.0026 L328,296.0026 L328,344.0026 L231.998,344.0026 Z M152,136 L280,216 L152,296.002 L152,136 Z"/></svg>
