@@ -8,6 +8,11 @@ categories: general
 <!-- Font Awesome for podcast icon -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 30px;">
+  <img src="{{ '/assets/images/night-science-logo.png' | relative_url }}" alt="Night Science Podcast" style="width: 120px; height: 120px; border-radius: 12px; flex-shrink: 0;">
+  <p style="margin: 0;"><a href="https://night-science.org/">Night Science</a> is a podcast by Itai Yanai and Martin Lercher that explores the creative side of science — how researchers come up with ideas, find inspiration, and navigate the imaginative process behind discovery. Each episode features conversations with leading scientists across disciplines.</p>
+</div>
+
 <div class="publications-grid">
 
   <div class="publication-item">
