@@ -11,7 +11,7 @@ permalink: /resume/
     <div class="pub-title">Associate Research Scientist</div>
     <div class="pub-authors">Woappi Lab (SRSP), Columbia University</div>
     <div class="pub-venue">Oct 2025 – Present</div>
-    <div class="resume-description">Highly multiplexed CRISPR screens to investigate mammalian regeneration in skin wounds. Developed RESTRICT-seq for time-gated screening.</div>
+    <div class="resume-description">Developed highly multiplexed CRISPR screens to investigate mammalian regeneration in skin wounds. Worked on RESTRICT-seq for time-gated CRISPR screening.</div>
   </div>
   <div class="publication">
     <div class="pub-title">Postdoctoral Researcher</div>
@@ -23,7 +23,7 @@ permalink: /resume/
     <div class="pub-title">Postdoctoral Researcher</div>
     <div class="pub-authors">CAA Lab, Koç University</div>
     <div class="pub-venue">Aug 2019 – Dec 2023</div>
-    <div class="resume-description">Centrosome biology, chromosomal instability, and proximity proteomics. Led projects on PLK4-driven centriole amplification and Nek2 interactome mapping.</div>
+    <div class="resume-description">Centrosome biology, asdasdasd chromosomal instability, proximity proteomics, and CRISPR screening. Led projects on PLK4-driven centriole amplification, Nek2 interactome mapping, and epigenetic regulation of erythropoiesis.</div>
   </div>
   <div class="publication">
     <div class="pub-title">Visiting Researcher</div>
