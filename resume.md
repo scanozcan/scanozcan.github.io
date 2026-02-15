@@ -83,7 +83,7 @@ permalink: /resume/
       <li>CRISPR screens</li>
       <li>Proximity proteomics</li>
       <li>Flow cytometry / FACS</li>
-      <li>Fluorescence microscopy</li>
+      <li>Confocal microscopy / STED</li>
       <li>Metabolic assays</li>
       <li>in vivo models</li>
     </ul>
