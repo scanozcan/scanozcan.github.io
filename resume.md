@@ -93,7 +93,8 @@ permalink: /resume/
     <ul>
       <li>R / RStudio</li>
       <li>Python</li>
-      <li>Genomic data analysis</li>
+      <li>Genomic & proteomic data analysis</li>
+      <li>Single cell methods</li>
     </ul>
   </div>
 </div>
