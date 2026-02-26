@@ -339,7 +339,7 @@ categories: general
   }
 
   .tidal-album-icon:hover svg {
-    color: #1EACCD !important;
+    color: #C49A3C !important;
     opacity: 0.9;
     transform: scale(1.15);
   }
