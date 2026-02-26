@@ -479,6 +479,10 @@ a.back-link:active {
   color: #1DB954;
 }
 
+.icon-container a:hover .tidal-icon {
+  color: #1EACCD;
+}
+
 @media (max-width: 600px) {
   .icon-container {
     gap: 15px;
