@@ -2,13 +2,13 @@
 # Types: unpublished, preprint, article, review
 
 # Currently working on
-- title: "Stress adaptation as evolutionary game switch strategies in cancer"
+- title: "Stress-driven strategic games in cancer"
   authors: "Ozcan SC"
   venue: "Review, Perspective"
   year: 2026
   type: currents
   links:
-    pdf: "#"
+    pdf: "/assets/files/Stress_adaptation_as_evolutionary_game_switch_strategies_in_cancer.pdf"
 
 - title: "An epigenome targeted CRISPR screen identifies key stage-specific determinants of human erythropoiesis"
   authors: "Goksel E, Ozcan SC et al."
