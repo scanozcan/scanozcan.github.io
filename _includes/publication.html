@@ -4,7 +4,7 @@
   <div class="pub-venue">{{ pub.venue }}, {{ pub.year }}</div>
   <div class="pub-icons">
     {% if pub.links.pdf and pub.links.pdf != "#" and pub.type != "preprint" %}
-      <a href="{{ pub.links.pdf }}" class="pub-icon-link" title="PDF">
+      <a href="{{ pub.links.pdf }}" class="pub-icon-link" title="PDF" target="_blank" rel="noopener">
         <i class="fas fa-file-pdf"></i>
       </a>
     {% endif %}
