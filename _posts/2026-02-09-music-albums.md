@@ -248,6 +248,63 @@ categories: general
     </div>
   </div>
 
+  <div class="album-card">
+    <img src="{{ '/assets/images/albums/gogo-penguin-v2.jpg' | relative_url }}" alt="v2.0 - GoGo Penguin" class="album-cover">
+    <div class="album-info">
+      <div class="pub-title">
+        v2.0
+        <span class="album-icons">
+          <a href="https://open.spotify.com/album/0ZvyleSEIlDbklGZ995APl" style="text-decoration: none; color: inherit;" title="Listen on Spotify" class="spotify-album-icon">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
+          </a>
+          <a href="https://tidal.com/browse/album/192743822" style="text-decoration: none; color: inherit;" title="Listen on TIDAL" class="tidal-album-icon">
+            <svg width="18" height="18" viewBox="0 0 24 16" fill="currentColor" style="vertical-align: middle;"><path d="M4 0L8 4L4 8L0 4ZM12 0L16 4L12 8L8 4ZM20 0L24 4L20 8L16 4ZM12 8L16 12L12 16L8 12Z"/></svg>
+          </a>
+        </span>
+      </div>
+      <div class="pub-authors">GoGo Penguin</div>
+      <div class="pub-venue">Blue Note Records, 2014</div>
+    </div>
+  </div>
+
+  <div class="album-card">
+    <img src="{{ '/assets/images/albums/gogo-penguin-a-humdrum-star.jpg' | relative_url }}" alt="A Humdrum Star - GoGo Penguin" class="album-cover">
+    <div class="album-info">
+      <div class="pub-title">
+        A Humdrum Star
+        <span class="album-icons">
+          <a href="https://open.spotify.com/album/2UFElDP17YbtW2aVf1eGyI" style="text-decoration: none; color: inherit;" title="Listen on Spotify" class="spotify-album-icon">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
+          </a>
+          <a href="https://tidal.com/browse/album/95645815" style="text-decoration: none; color: inherit;" title="Listen on TIDAL" class="tidal-album-icon">
+            <svg width="18" height="18" viewBox="0 0 24 16" fill="currentColor" style="vertical-align: middle;"><path d="M4 0L8 4L4 8L0 4ZM12 0L16 4L12 8L8 4ZM20 0L24 4L20 8L16 4ZM12 8L16 12L12 16L8 12Z"/></svg>
+          </a>
+        </span>
+      </div>
+      <div class="pub-authors">GoGo Penguin</div>
+      <div class="pub-venue">Blue Note Records, 2018</div>
+    </div>
+  </div>
+
+  <div class="album-card">
+    <img src="{{ '/assets/images/albums/dhafer-youssef-diwan-of-beauty-and-odd.jpg' | relative_url }}" alt="Diwan of Beauty and Odd - Dhafer Youssef" class="album-cover">
+    <div class="album-info">
+      <div class="pub-title">
+        Diwan of Beauty and Odd
+        <span class="album-icons">
+          <a href="https://open.spotify.com/album/3G531AVKSiGn2oU6UjrICy" style="text-decoration: none; color: inherit;" title="Listen on Spotify" class="spotify-album-icon">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
+          </a>
+          <a href="https://tidal.com/browse/album/64498671" style="text-decoration: none; color: inherit;" title="Listen on TIDAL" class="tidal-album-icon">
+            <svg width="18" height="18" viewBox="0 0 24 16" fill="currentColor" style="vertical-align: middle;"><path d="M4 0L8 4L4 8L0 4ZM12 0L16 4L12 8L8 4ZM20 0L24 4L20 8L16 4ZM12 8L16 12L12 16L8 12Z"/></svg>
+          </a>
+        </span>
+      </div>
+      <div class="pub-authors">Dhafer Youssef</div>
+      <div class="pub-venue">Okeh, 2016</div>
+    </div>
+  </div>
+
 </div>
 
 <!-- Copy this block for each new album:
