@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Some albums that I like"
+title: "Some albums that I like and recommend"
 date: 2026-02-06
 categories: general
 ---
