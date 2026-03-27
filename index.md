@@ -13,7 +13,7 @@ permalink: /
 
 I'm a biologist interested in how cells make fate decisions during tissue repair and in cancer. Currently at the **[SRSP Lab](https://woappilab.com)** at **[Columbia University](https://www.columbia.edu)**, I use highly multiplexed CRISPR screens to dissect the genetic programs driving mammalian skin wound regeneration. My background also spans cancer metabolism, chromosomal instability, and epigenetic regulation of stem cell differentiation.
 
-I love fooling around with plasmids and DNA sequences! I also enjoy exploring diverse datasets. I'm increasingly interested in applying evolutionary game theory to understand cellular decision-making and cell-cell communication in cancer and tissue biology.
+I love working with plasmids and DNA sequences! I also enjoy exploring diverse datasets. I'm increasingly interested in applying evolutionary game theory to understand cellular decision-making and cell-cell communication in cancer and tissue biology.
 
   </div>
   <img src="{{ '/assets/images/profile.png' | relative_url }}" alt="Profile Photo" class="profile-photo">
