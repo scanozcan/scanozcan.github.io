@@ -32,103 +32,21 @@ categories: general
   </div>
 
   <div class="album-card">
-    <img src="{{ '/assets/images/albums/destination-rachmaninov-departure.jpg' | relative_url }}" alt="Destination Rachmaninov: Departure - Daniil Trifonov" class="album-cover">
+    <img src="{{ '/assets/images/albums/horowitz-golden-jubilee-concert.jpg' | relative_url }}" alt="Golden Jubilee Concert - Vladimir Horowitz" class="album-cover">
     <div class="album-info">
       <div class="pub-title">
-        Destination Rachmaninov: Departure
+        Golden Jubilee Concert
         <span class="album-icons">
-          <a href="https://app.idagio.com/albums/destination-rachmaninov-departure" style="text-decoration: none; color: inherit;" title="Listen on IDAGIO" class="idagio-album-icon">
-            <svg width="20" height="20" viewBox="140 124 200 232" fill="currentColor" style="vertical-align: middle;"><path d="M231.998,344.0026 L231.998,296.0026 L328,296.0026 L328,344.0026 L231.998,344.0026 Z M152,136 L280,216 L152,296.002 L152,136 Z"/></svg>
-          </a>
-          <a href="https://open.spotify.com/album/5MFK8xu5ZnoKezAQQ5UFE5" style="text-decoration: none; color: inherit;" title="Listen on Spotify" class="spotify-album-icon">
+          <a href="https://open.spotify.com/album/5Cbmwmd1BOdFUCDCPN41cQ" style="text-decoration: none; color: inherit;" title="Listen on Spotify" class="spotify-album-icon">
             <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
           </a>
-          <a href="https://tidal.com/browse/album/96194798" style="text-decoration: none; color: inherit;" title="Listen on TIDAL" class="tidal-album-icon">
+          <a href="https://tidal.com/album/59326391/u" style="text-decoration: none; color: inherit;" title="Listen on TIDAL" class="tidal-album-icon">
             <svg width="18" height="18" viewBox="0 0 24 16" fill="currentColor" style="vertical-align: middle;"><path d="M4 0L8 4L4 8L0 4ZM12 0L16 4L12 8L8 4ZM20 0L24 4L20 8L16 4ZM12 8L16 12L12 16L8 12Z"/></svg>
           </a>
         </span>
       </div>
-      <div class="pub-authors">Daniil Trifonov, The Philadelphia Orchestra, Yannick Nézet-Séguin</div>
-      <div class="pub-venue">Deutsche Grammophon, 2018</div>
-    </div>
-  </div>
-
-  <div class="album-card">
-    <img src="{{ '/assets/images/albums/destination-rachmaninov-arrival.jpg' | relative_url }}" alt="Destination Rachmaninov: Arrival - Daniil Trifonov" class="album-cover">
-    <div class="album-info">
-      <div class="pub-title">
-        Destination Rachmaninov: Arrival
-        <span class="album-icons">
-          <a href="https://app.idagio.com/albums/destination-rachmaninov-arrival" style="text-decoration: none; color: inherit;" title="Listen on IDAGIO" class="idagio-album-icon">
-            <svg width="20" height="20" viewBox="140 124 200 232" fill="currentColor" style="vertical-align: middle;"><path d="M231.998,344.0026 L231.998,296.0026 L328,296.0026 L328,344.0026 L231.998,344.0026 Z M152,136 L280,216 L152,296.002 L152,136 Z"/></svg>
-          </a>
-          <a href="https://open.spotify.com/album/1CjlWmQhGgkAKFiikkzEqL" style="text-decoration: none; color: inherit;" title="Listen on Spotify" class="spotify-album-icon">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
-          </a>
-          <a href="https://tidal.com/browse/album/119435720" style="text-decoration: none; color: inherit;" title="Listen on TIDAL" class="tidal-album-icon">
-            <svg width="18" height="18" viewBox="0 0 24 16" fill="currentColor" style="vertical-align: middle;"><path d="M4 0L8 4L4 8L0 4ZM12 0L16 4L12 8L8 4ZM20 0L24 4L20 8L16 4ZM12 8L16 12L12 16L8 12Z"/></svg>
-          </a>
-        </span>
-      </div>
-      <div class="pub-authors">Daniil Trifonov, The Philadelphia Orchestra, Yannick Nézet-Séguin</div>
-      <div class="pub-venue">Deutsche Grammophon, 2019</div>
-    </div>
-  </div>
-
-  <div class="album-card">
-    <img src="{{ '/assets/images/albums/lugansky-rachmaninov-24-preludes.jpg' | relative_url }}" alt="Rachmaninov: 24 Preludes - Nikolai Lugansky" class="album-cover">
-    <div class="album-info">
-      <div class="pub-title">
-        Rachmaninov: 24 Preludes
-        <span class="album-icons">
-          <a href="https://app.idagio.com/albums/rachmaninov-24-preludes" style="text-decoration: none; color: inherit;" title="Listen on IDAGIO" class="idagio-album-icon">
-            <svg width="20" height="20" viewBox="140 124 200 232" fill="currentColor" style="vertical-align: middle;"><path d="M231.998,344.0026 L231.998,296.0026 L328,296.0026 L328,344.0026 L231.998,344.0026 Z M152,136 L280,216 L152,296.002 L152,136 Z"/></svg>
-          </a>
-          <a href="https://open.spotify.com/album/5j5EOBrr8lQSVTkCHZ07KQ" style="text-decoration: none; color: inherit;" title="Listen on Spotify" class="spotify-album-icon">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
-          </a>
-        </span>
-      </div>
-      <div class="pub-authors">Nikolai Lugansky</div>
-      <div class="pub-venue">harmonia mundi, 2018</div>
-    </div>
-  </div>
-
-  <div class="album-card">
-    <img src="{{ '/assets/images/albums/mravinsky-tchaikovsky-symphonies-4-5-6.jpg' | relative_url }}" alt="Tchaikovsky: Symphonies Nos. 4, 5 & 6 - Evgeny Mravinsky" class="album-cover">
-    <div class="album-info">
-      <div class="pub-title">
-        Tchaikovsky: Symphonies Nos. 4, 5 & 6 "Pathétique"
-        <span class="album-icons">
-          <a href="https://app.idagio.com/albums/tchaikovsky-symphonies-nos-4-5-6-pathetique" style="text-decoration: none; color: inherit;" title="Listen on IDAGIO" class="idagio-album-icon">
-            <svg width="20" height="20" viewBox="140 124 200 232" fill="currentColor" style="vertical-align: middle;"><path d="M231.998,344.0026 L231.998,296.0026 L328,296.0026 L328,344.0026 L231.998,344.0026 Z M152,136 L280,216 L152,296.002 L152,136 Z"/></svg>
-          </a>
-          <a href="https://open.spotify.com/album/6sruyMSNa4aTz9x7RCeD1D" style="text-decoration: none; color: inherit;" title="Listen on Spotify" class="spotify-album-icon">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
-          </a>
-          <a href="https://tidal.com/browse/album/25388322" style="text-decoration: none; color: inherit;" title="Listen on TIDAL" class="tidal-album-icon">
-            <svg width="18" height="18" viewBox="0 0 24 16" fill="currentColor" style="vertical-align: middle;"><path d="M4 0L8 4L4 8L0 4ZM12 0L16 4L12 8L8 4ZM20 0L24 4L20 8L16 4ZM12 8L16 12L12 16L8 12Z"/></svg>
-          </a>
-        </span>
-      </div>
-      <div class="pub-authors">Evgeny Mravinsky, Leningrad Philharmonic Orchestra</div>
-      <div class="pub-venue">Deutsche Grammophon, 1961</div>
-    </div>
-  </div>
-
-  <div class="album-card">
-    <img src="{{ '/assets/images/albums/lisitsa-chopin-nocturnes.jpg' | relative_url }}" alt="Chopin Nocturnes - Valentina Lisitsa" class="album-cover">
-    <div class="album-info">
-      <div class="pub-title">
-        Chopin: Nocturnes
-        <span class="album-icons">
-          <a href="https://app.idagio.com/albums/valentina-lisitsa-chopin-nocturnes" style="text-decoration: none; color: inherit;" title="Listen on IDAGIO" class="idagio-album-icon">
-            <svg width="20" height="20" viewBox="140 124 200 232" fill="currentColor" style="vertical-align: middle;"><path d="M231.998,344.0026 L231.998,296.0026 L328,296.0026 L328,344.0026 L231.998,344.0026 Z M152,136 L280,216 L152,296.002 L152,136 Z"/></svg>
-          </a>
-        </span>
-      </div>
-      <div class="pub-authors">Valentina Lisitsa</div>
-      <div class="pub-venue">2020</div>
+      <div class="pub-authors">Vladimir Horowitz</div>
+      <div class="pub-venue">BMG Entertainment, 2000</div>
     </div>
   </div>
 
@@ -176,30 +94,115 @@ categories: general
     </div>
   </div>
 
+  <div class="album-card">
+    <img src="{{ '/assets/images/albums/lisitsa-chopin-nocturnes.jpg' | relative_url }}" alt="Chopin Nocturnes - Valentina Lisitsa" class="album-cover">
+    <div class="album-info">
+      <div class="pub-title">
+        Chopin: Nocturnes
+        <span class="album-icons">
+          <a href="https://app.idagio.com/albums/valentina-lisitsa-chopin-nocturnes" style="text-decoration: none; color: inherit;" title="Listen on IDAGIO" class="idagio-album-icon">
+            <svg width="20" height="20" viewBox="140 124 200 232" fill="currentColor" style="vertical-align: middle;"><path d="M231.998,344.0026 L231.998,296.0026 L328,296.0026 L328,344.0026 L231.998,344.0026 Z M152,136 L280,216 L152,296.002 L152,136 Z"/></svg>
+          </a>
+        </span>
+      </div>
+      <div class="pub-authors">Valentina Lisitsa</div>
+      <div class="pub-venue">2020</div>
+    </div>
+  </div>
+
+  <div class="album-card">
+    <img src="{{ '/assets/images/albums/lugansky-rachmaninov-24-preludes.jpg' | relative_url }}" alt="Rachmaninov: 24 Preludes - Nikolai Lugansky" class="album-cover">
+    <div class="album-info">
+      <div class="pub-title">
+        Rachmaninov: 24 Preludes
+        <span class="album-icons">
+          <a href="https://app.idagio.com/albums/rachmaninov-24-preludes" style="text-decoration: none; color: inherit;" title="Listen on IDAGIO" class="idagio-album-icon">
+            <svg width="20" height="20" viewBox="140 124 200 232" fill="currentColor" style="vertical-align: middle;"><path d="M231.998,344.0026 L231.998,296.0026 L328,296.0026 L328,344.0026 L231.998,344.0026 Z M152,136 L280,216 L152,296.002 L152,136 Z"/></svg>
+          </a>
+          <a href="https://open.spotify.com/album/5j5EOBrr8lQSVTkCHZ07KQ" style="text-decoration: none; color: inherit;" title="Listen on Spotify" class="spotify-album-icon">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
+          </a>
+          <a href="https://tidal.com/album/83515052/u" style="text-decoration: none; color: inherit;" title="Listen on TIDAL" class="tidal-album-icon">
+            <svg width="18" height="18" viewBox="0 0 24 16" fill="currentColor" style="vertical-align: middle;"><path d="M4 0L8 4L4 8L0 4ZM12 0L16 4L12 8L8 4ZM20 0L24 4L20 8L16 4ZM12 8L16 12L12 16L8 12Z"/></svg>
+          </a>
+        </span>
+      </div>
+      <div class="pub-authors">Nikolai Lugansky</div>
+      <div class="pub-venue">harmonia mundi, 2018</div>
+    </div>
+  </div>
+
+  <div class="album-card">
+    <img src="{{ '/assets/images/albums/mravinsky-tchaikovsky-symphonies-4-5-6.jpg' | relative_url }}" alt="Tchaikovsky: Symphonies Nos. 4, 5 & 6 - Evgeny Mravinsky" class="album-cover">
+    <div class="album-info">
+      <div class="pub-title">
+        Tchaikovsky: Symphonies Nos. 4, 5 & 6 "Pathétique"
+        <span class="album-icons">
+          <a href="https://app.idagio.com/albums/tchaikovsky-symphonies-nos-4-5-6-pathetique" style="text-decoration: none; color: inherit;" title="Listen on IDAGIO" class="idagio-album-icon">
+            <svg width="20" height="20" viewBox="140 124 200 232" fill="currentColor" style="vertical-align: middle;"><path d="M231.998,344.0026 L231.998,296.0026 L328,296.0026 L328,344.0026 L231.998,344.0026 Z M152,136 L280,216 L152,296.002 L152,136 Z"/></svg>
+          </a>
+          <a href="https://open.spotify.com/album/6sruyMSNa4aTz9x7RCeD1D" style="text-decoration: none; color: inherit;" title="Listen on Spotify" class="spotify-album-icon">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
+          </a>
+          <a href="https://tidal.com/browse/album/25388322" style="text-decoration: none; color: inherit;" title="Listen on TIDAL" class="tidal-album-icon">
+            <svg width="18" height="18" viewBox="0 0 24 16" fill="currentColor" style="vertical-align: middle;"><path d="M4 0L8 4L4 8L0 4ZM12 0L16 4L12 8L8 4ZM20 0L24 4L20 8L16 4ZM12 8L16 12L12 16L8 12Z"/></svg>
+          </a>
+        </span>
+      </div>
+      <div class="pub-authors">Evgeny Mravinsky, Leningrad Philharmonic Orchestra</div>
+      <div class="pub-venue">Deutsche Grammophon, 1961</div>
+    </div>
+  </div>
+
+  <div class="album-card">
+    <img src="{{ '/assets/images/albums/destination-rachmaninov-departure.jpg' | relative_url }}" alt="Destination Rachmaninov: Departure - Daniil Trifonov" class="album-cover">
+    <div class="album-info">
+      <div class="pub-title">
+        Destination Rachmaninov: Departure
+        <span class="album-icons">
+          <a href="https://app.idagio.com/albums/destination-rachmaninov-departure" style="text-decoration: none; color: inherit;" title="Listen on IDAGIO" class="idagio-album-icon">
+            <svg width="20" height="20" viewBox="140 124 200 232" fill="currentColor" style="vertical-align: middle;"><path d="M231.998,344.0026 L231.998,296.0026 L328,296.0026 L328,344.0026 L231.998,344.0026 Z M152,136 L280,216 L152,296.002 L152,136 Z"/></svg>
+          </a>
+          <a href="https://open.spotify.com/album/5MFK8xu5ZnoKezAQQ5UFE5" style="text-decoration: none; color: inherit;" title="Listen on Spotify" class="spotify-album-icon">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
+          </a>
+          <a href="https://tidal.com/browse/album/96194798" style="text-decoration: none; color: inherit;" title="Listen on TIDAL" class="tidal-album-icon">
+            <svg width="18" height="18" viewBox="0 0 24 16" fill="currentColor" style="vertical-align: middle;"><path d="M4 0L8 4L4 8L0 4ZM12 0L16 4L12 8L8 4ZM20 0L24 4L20 8L16 4ZM12 8L16 12L12 16L8 12Z"/></svg>
+          </a>
+        </span>
+      </div>
+      <div class="pub-authors">Daniil Trifonov, The Philadelphia Orchestra, Yannick Nézet-Séguin</div>
+      <div class="pub-venue">Deutsche Grammophon, 2018</div>
+    </div>
+  </div>
+
+  <div class="album-card">
+    <img src="{{ '/assets/images/albums/destination-rachmaninov-arrival.jpg' | relative_url }}" alt="Destination Rachmaninov: Arrival - Daniil Trifonov" class="album-cover">
+    <div class="album-info">
+      <div class="pub-title">
+        Destination Rachmaninov: Arrival
+        <span class="album-icons">
+          <a href="https://app.idagio.com/albums/destination-rachmaninov-arrival" style="text-decoration: none; color: inherit;" title="Listen on IDAGIO" class="idagio-album-icon">
+            <svg width="20" height="20" viewBox="140 124 200 232" fill="currentColor" style="vertical-align: middle;"><path d="M231.998,344.0026 L231.998,296.0026 L328,296.0026 L328,344.0026 L231.998,344.0026 Z M152,136 L280,216 L152,296.002 L152,136 Z"/></svg>
+          </a>
+          <a href="https://open.spotify.com/album/1CjlWmQhGgkAKFiikkzEqL" style="text-decoration: none; color: inherit;" title="Listen on Spotify" class="spotify-album-icon">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
+          </a>
+          <a href="https://tidal.com/browse/album/119435720" style="text-decoration: none; color: inherit;" title="Listen on TIDAL" class="tidal-album-icon">
+            <svg width="18" height="18" viewBox="0 0 24 16" fill="currentColor" style="vertical-align: middle;"><path d="M4 0L8 4L4 8L0 4ZM12 0L16 4L12 8L8 4ZM20 0L24 4L20 8L16 4ZM12 8L16 12L12 16L8 12Z"/></svg>
+          </a>
+        </span>
+      </div>
+      <div class="pub-authors">Daniil Trifonov, The Philadelphia Orchestra, Yannick Nézet-Séguin</div>
+      <div class="pub-venue">Deutsche Grammophon, 2019</div>
+    </div>
+  </div>
+
 </div>
 
 ## Baroque
 
 <div class="albums-grid">
-
-  <div class="album-card">
-    <img src="{{ '/assets/images/albums/yunchan-lim-goldberg-variations.jpg' | relative_url }}" alt="J.S. Bach: Goldberg Variations - Yunchan Lim" class="album-cover">
-    <div class="album-info">
-      <div class="pub-title">
-        J.S. Bach: Goldberg Variations
-        <span class="album-icons">
-          <a href="https://app.idagio.com/albums/j-s-bach-goldberg-variations-live-at-carnegie-hall-new-york-2025" style="text-decoration: none; color: inherit;" title="Listen on IDAGIO" class="idagio-album-icon">
-            <svg width="20" height="20" viewBox="140 124 200 232" fill="currentColor" style="vertical-align: middle;"><path d="M231.998,344.0026 L231.998,296.0026 L328,296.0026 L328,344.0026 L231.998,344.0026 Z M152,136 L280,216 L152,296.002 L152,136 Z"/></svg>
-          </a>
-          <a href="https://open.spotify.com/album/7EzK6PwHYbMgc8M9FVSG7s" style="text-decoration: none; color: inherit;" title="Listen on Spotify" class="spotify-album-icon">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
-          </a>
-        </span>
-      </div>
-      <div class="pub-authors">Yunchan Lim</div>
-      <div class="pub-venue">Live at Carnegie Hall, New York, 2025 · Decca Classics, 2026</div>
-    </div>
-  </div>
 
   <div class="album-card">
     <img src="{{ '/assets/images/albums/pergolesi-stabat-mater.jpg' | relative_url }}" alt="Pergolesi: Stabat Mater" class="album-cover">
@@ -220,6 +223,28 @@ categories: general
       </div>
       <div class="pub-authors">Jodie Devos, Adèle Charvet, Le Concert de la Loge, Julien Chauvin</div>
       <div class="pub-venue">Alpha Classics, 2022</div>
+    </div>
+  </div>
+
+  <div class="album-card">
+    <img src="{{ '/assets/images/albums/yunchan-lim-goldberg-variations.jpg' | relative_url }}" alt="J.S. Bach: Goldberg Variations - Yunchan Lim" class="album-cover">
+    <div class="album-info">
+      <div class="pub-title">
+        J.S. Bach: Goldberg Variations
+        <span class="album-icons">
+          <a href="https://app.idagio.com/albums/j-s-bach-goldberg-variations-live-at-carnegie-hall-new-york-2025" style="text-decoration: none; color: inherit;" title="Listen on IDAGIO" class="idagio-album-icon">
+            <svg width="20" height="20" viewBox="140 124 200 232" fill="currentColor" style="vertical-align: middle;"><path d="M231.998,344.0026 L231.998,296.0026 L328,296.0026 L328,344.0026 L231.998,344.0026 Z M152,136 L280,216 L152,296.002 L152,136 Z"/></svg>
+          </a>
+          <a href="https://open.spotify.com/album/7EzK6PwHYbMgc8M9FVSG7s" style="text-decoration: none; color: inherit;" title="Listen on Spotify" class="spotify-album-icon">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
+          </a>
+          <a href="https://tidal.com/album/494409220/u" style="text-decoration: none; color: inherit;" title="Listen on TIDAL" class="tidal-album-icon">
+            <svg width="18" height="18" viewBox="0 0 24 16" fill="currentColor" style="vertical-align: middle;"><path d="M4 0L8 4L4 8L0 4ZM12 0L16 4L12 8L8 4ZM20 0L24 4L20 8L16 4ZM12 8L16 12L12 16L8 12Z"/></svg>
+          </a>
+        </span>
+      </div>
+      <div class="pub-authors">Yunchan Lim</div>
+      <div class="pub-venue">Live at Carnegie Hall, New York, 2025 · Decca Classics, 2026</div>
     </div>
   </div>
 
@@ -252,21 +277,21 @@ categories: general
 <div class="albums-grid">
 
   <div class="album-card">
-    <img src="{{ '/assets/images/albums/ibrahim-maalouf-kalthoum.jpg' | relative_url }}" alt="Kalthoum - Ibrahim Maalouf" class="album-cover">
+    <img src="{{ '/assets/images/albums/olafur-arnalds-for-now-i-am-winter.jpg' | relative_url }}" alt="For Now I Am Winter - Ólafur Arnalds" class="album-cover">
     <div class="album-info">
       <div class="pub-title">
-        Kalthoum (Alf Leila Wa Leila)
+        For Now I Am Winter
         <span class="album-icons">
-          <a href="https://open.spotify.com/album/1EoKR1J4RaDtkiEzAG7Fxb" style="text-decoration: none; color: inherit;" title="Listen on Spotify" class="spotify-album-icon">
+          <a href="https://open.spotify.com/album/5lssELel9HlvXJR0ndiqoy" style="text-decoration: none; color: inherit;" title="Listen on Spotify" class="spotify-album-icon">
             <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
           </a>
-          <a href="https://tidal.com/browse/album/51684551" style="text-decoration: none; color: inherit;" title="Listen on TIDAL" class="tidal-album-icon">
+          <a href="https://tidal.com/album/330855983/u" style="text-decoration: none; color: inherit;" title="Listen on TIDAL" class="tidal-album-icon">
             <svg width="18" height="18" viewBox="0 0 24 16" fill="currentColor" style="vertical-align: middle;"><path d="M4 0L8 4L4 8L0 4ZM12 0L16 4L12 8L8 4ZM20 0L24 4L20 8L16 4ZM12 8L16 12L12 16L8 12Z"/></svg>
           </a>
         </span>
       </div>
-      <div class="pub-authors">Ibrahim Maalouf</div>
-      <div class="pub-venue">Mister Ibé, 2015</div>
+      <div class="pub-authors">Ólafur Arnalds</div>
+      <div class="pub-venue">Mercury KX, 2013</div>
     </div>
   </div>
 
@@ -309,21 +334,21 @@ categories: general
   </div>
 
   <div class="album-card">
-    <img src="{{ '/assets/images/albums/dhafer-youssef-diwan-of-beauty-and-odd.jpg' | relative_url }}" alt="Diwan of Beauty and Odd - Dhafer Youssef" class="album-cover">
+    <img src="{{ '/assets/images/albums/ibrahim-maalouf-kalthoum.jpg' | relative_url }}" alt="Kalthoum - Ibrahim Maalouf" class="album-cover">
     <div class="album-info">
       <div class="pub-title">
-        Diwan of Beauty and Odd
+        Kalthoum (Alf Leila Wa Leila)
         <span class="album-icons">
-          <a href="https://open.spotify.com/album/3G531AVKSiGn2oU6UjrICy" style="text-decoration: none; color: inherit;" title="Listen on Spotify" class="spotify-album-icon">
+          <a href="https://open.spotify.com/album/1EoKR1J4RaDtkiEzAG7Fxb" style="text-decoration: none; color: inherit;" title="Listen on Spotify" class="spotify-album-icon">
             <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
           </a>
-          <a href="https://tidal.com/browse/album/64498671" style="text-decoration: none; color: inherit;" title="Listen on TIDAL" class="tidal-album-icon">
+          <a href="https://tidal.com/browse/album/51684551" style="text-decoration: none; color: inherit;" title="Listen on TIDAL" class="tidal-album-icon">
             <svg width="18" height="18" viewBox="0 0 24 16" fill="currentColor" style="vertical-align: middle;"><path d="M4 0L8 4L4 8L0 4ZM12 0L16 4L12 8L8 4ZM20 0L24 4L20 8L16 4ZM12 8L16 12L12 16L8 12Z"/></svg>
           </a>
         </span>
       </div>
-      <div class="pub-authors">Dhafer Youssef</div>
-      <div class="pub-venue">Okeh, 2016</div>
+      <div class="pub-authors">Ibrahim Maalouf</div>
+      <div class="pub-venue">Mister Ibé, 2015</div>
     </div>
   </div>
 
@@ -347,21 +372,21 @@ categories: general
   </div>
 
   <div class="album-card">
-    <img src="{{ '/assets/images/albums/olafur-arnalds-for-now-i-am-winter.jpg' | relative_url }}" alt="For Now I Am Winter - Ólafur Arnalds" class="album-cover">
+    <img src="{{ '/assets/images/albums/dhafer-youssef-diwan-of-beauty-and-odd.jpg' | relative_url }}" alt="Diwan of Beauty and Odd - Dhafer Youssef" class="album-cover">
     <div class="album-info">
       <div class="pub-title">
-        For Now I Am Winter
+        Diwan of Beauty and Odd
         <span class="album-icons">
-          <a href="https://open.spotify.com/album/5lssELel9HlvXJR0ndiqoy" style="text-decoration: none; color: inherit;" title="Listen on Spotify" class="spotify-album-icon">
+          <a href="https://open.spotify.com/album/3G531AVKSiGn2oU6UjrICy" style="text-decoration: none; color: inherit;" title="Listen on Spotify" class="spotify-album-icon">
             <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
           </a>
-          <a href="https://tidal.com/browse/album/36124387" style="text-decoration: none; color: inherit;" title="Listen on TIDAL" class="tidal-album-icon">
+          <a href="https://tidal.com/browse/album/64498671" style="text-decoration: none; color: inherit;" title="Listen on TIDAL" class="tidal-album-icon">
             <svg width="18" height="18" viewBox="0 0 24 16" fill="currentColor" style="vertical-align: middle;"><path d="M4 0L8 4L4 8L0 4ZM12 0L16 4L12 8L8 4ZM20 0L24 4L20 8L16 4ZM12 8L16 12L12 16L8 12Z"/></svg>
           </a>
         </span>
       </div>
-      <div class="pub-authors">Ólafur Arnalds</div>
-      <div class="pub-venue">Mercury KX, 2013</div>
+      <div class="pub-authors">Dhafer Youssef</div>
+      <div class="pub-venue">Okeh, 2016</div>
     </div>
   </div>
 
