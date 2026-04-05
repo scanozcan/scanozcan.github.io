@@ -154,6 +154,28 @@ categories: general
     </div>
   </div>
 
+  <div class="album-card">
+    <img src="{{ '/assets/images/albums/jan-lisiecki-chopin-complete-nocturnes.jpg' | relative_url }}" alt="Chopin: Complete Nocturnes - Jan Lisiecki" class="album-cover">
+    <div class="album-info">
+      <div class="pub-title">
+        Chopin: Complete Nocturnes
+        <span class="album-icons">
+          <a href="https://app.idagio.com/albums/chopin-complete-nocturnes-1CD7174C-F953-4177-9FEC-2556A8594B95" style="text-decoration: none; color: inherit;" title="Listen on IDAGIO" class="idagio-album-icon">
+            <svg width="20" height="20" viewBox="140 124 200 232" fill="currentColor" style="vertical-align: middle;"><path d="M231.998,344.0026 L231.998,296.0026 L328,296.0026 L328,344.0026 L231.998,344.0026 Z M152,136 L280,216 L152,296.002 L152,136 Z"/></svg>
+          </a>
+          <a href="https://open.spotify.com/album/1mvFSxhBUzeOlOFU6SlhAw" style="text-decoration: none; color: inherit;" title="Listen on Spotify" class="spotify-album-icon">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
+          </a>
+          <a href="https://tidal.com/browse/album/193356298" style="text-decoration: none; color: inherit;" title="Listen on TIDAL" class="tidal-album-icon">
+            <svg width="18" height="18" viewBox="0 0 24 16" fill="currentColor" style="vertical-align: middle;"><path d="M4 0L8 4L4 8L0 4ZM12 0L16 4L12 8L8 4ZM20 0L24 4L20 8L16 4ZM12 8L16 12L12 16L8 12Z"/></svg>
+          </a>
+        </span>
+      </div>
+      <div class="pub-authors">Jan Lisiecki</div>
+      <div class="pub-venue">Deutsche Grammophon, 2021</div>
+    </div>
+  </div>
+
 </div>
 
 ## Baroque
@@ -302,6 +324,44 @@ categories: general
       </div>
       <div class="pub-authors">Dhafer Youssef</div>
       <div class="pub-venue">Okeh, 2016</div>
+    </div>
+  </div>
+
+  <div class="album-card">
+    <img src="{{ '/assets/images/albums/ibrahim-maalouf-levantine-symphony.jpg' | relative_url }}" alt="Levantine Symphony No. 1 - Ibrahim Maalouf" class="album-cover">
+    <div class="album-info">
+      <div class="pub-title">
+        Levantine Symphony No. 1
+        <span class="album-icons">
+          <a href="https://open.spotify.com/album/5NNkPdjdfPi5W3oQvHupcJ" style="text-decoration: none; color: inherit;" title="Listen on Spotify" class="spotify-album-icon">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
+          </a>
+          <a href="https://tidal.com/browse/album/122506886" style="text-decoration: none; color: inherit;" title="Listen on TIDAL" class="tidal-album-icon">
+            <svg width="18" height="18" viewBox="0 0 24 16" fill="currentColor" style="vertical-align: middle;"><path d="M4 0L8 4L4 8L0 4ZM12 0L16 4L12 8L8 4ZM20 0L24 4L20 8L16 4ZM12 8L16 12L12 16L8 12Z"/></svg>
+          </a>
+        </span>
+      </div>
+      <div class="pub-authors">Ibrahim Maalouf</div>
+      <div class="pub-venue">Mister Ibe, 2018</div>
+    </div>
+  </div>
+
+  <div class="album-card">
+    <img src="{{ '/assets/images/albums/olafur-arnalds-for-now-i-am-winter.jpg' | relative_url }}" alt="For Now I Am Winter - Ólafur Arnalds" class="album-cover">
+    <div class="album-info">
+      <div class="pub-title">
+        For Now I Am Winter
+        <span class="album-icons">
+          <a href="https://open.spotify.com/album/5lssELel9HlvXJR0ndiqoy" style="text-decoration: none; color: inherit;" title="Listen on Spotify" class="spotify-album-icon">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
+          </a>
+          <a href="https://tidal.com/browse/album/36124387" style="text-decoration: none; color: inherit;" title="Listen on TIDAL" class="tidal-album-icon">
+            <svg width="18" height="18" viewBox="0 0 24 16" fill="currentColor" style="vertical-align: middle;"><path d="M4 0L8 4L4 8L0 4ZM12 0L16 4L12 8L8 4ZM20 0L24 4L20 8L16 4ZM12 8L16 12L12 16L8 12Z"/></svg>
+          </a>
+        </span>
+      </div>
+      <div class="pub-authors">Ólafur Arnalds</div>
+      <div class="pub-venue">Mercury KX, 2013</div>
     </div>
   </div>
 
