@@ -6,7 +6,7 @@ categories: news
 doi: "https://link.springer.com/article/10.1186/s12964-026-02865-5"
 ---
 
-Our article on the metabolic dependencies of cells with centrosome amplification is now [*published*](https://doi.org/10.1186/s12964-026-02865-5) in Cell Communication and Signaling.
+Our article on the metabolic dependencies of cells with centrosome amplification is now [published](https://doi.org/10.1186/s12964-026-02865-5) in Cell Communication and Signaling.
 
 ---
 
