@@ -32,6 +32,15 @@
 
 # Research Articles
 - type: "article"
+  title: "Stress adaptation pathways and HA-CD44 signaling maintain the survival of pancreatic cancer cells with centrosome amplification"
+  authors: "Ozcan SC, Goksel E, Kalkan BM, Cicek E, Kanevetci B, Acilan C"
+  venue: "Cell Communication and Signaling"
+  year: 2026
+  volume: "24"
+  links:
+    doi: "https://doi.org/10.1186/s12964-026-02865-5"
+
+- type: "article"
   title: "Epidrug screening identifies type I PRMT inhibitors as modulators of lysosomal exocytosis and drug sensitivity in cancers"
   authors: "Sergi B, Yuksel-Catal N, Ozcan SC, Syed H, Duvvuri U, Kiselyov K, Acilan C"
   venue: "Cell Death & Disease"
@@ -142,15 +151,6 @@
     doi: "https://doi.org/10.1088/1742-6596/2191/1/012003"
 
 # Pre-prints
-- type: "preprint"
-  title: "Stress adaptation pathways and HA-CD44 signaling maintain the survival of pancreatic cancer cells with centrosome amplification"
-  authors: "Ozcan SC, Goksel E, Kalkan BM, Cicek E, Kanevetci B, Acilan C"
-  venue: "bioRxiv"
-  year: 2026
-  links:
-    pdf: "https://www.biorxiv.org/content/10.64898/2026.01.24.701523v1"
-    doi: "https://doi.org/10.64898/2026.01.24.701523"
-
 - type: "preprint"
   title: "Proximity labeling reveals cell cycle-specific NEK2 interactions and a regulatory axis controlling NUSAP1 stability"
   authors: "Cicek E, Ozcan SC, Kanevetci B, Kalkan B, Ozkan NE, Ozlu N, Acilan C"
