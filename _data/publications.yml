@@ -26,6 +26,14 @@
   links:
     pdf: "#"
 
+- title: "Epidrug library screening on luciferase reporter model identifies HDAC inhibitors as enhancers of ATP7B expression through promoter acetylation"
+  authors: "Sergi B, Tutunculer B, Ozcan SC et al."
+  venue: "Research"
+  year: 2026
+  type: currents
+  links:
+    pdf: "#"
+
 
 # Publications data file for Jekyll site
 # Organized by type: article, preprint, review, currents, congress
