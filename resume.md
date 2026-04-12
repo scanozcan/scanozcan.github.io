@@ -10,7 +10,7 @@ permalink: /resume/
   <div class="publication">
     <div class="pub-title">Associate Research Scientist</div>
     <div class="pub-authors">Woappi Lab (SRSP), Columbia University</div>
-    <div class="pub-venue">Oct 2025 – Present</div>
+    <div class="pub-venue">Oct 2025 – Jun 2026</div>
     <div class="resume-description">Developing highly multiplexed CRISPR screens to investigate mammalian regeneration in skin wounds. Worked on RESTRICT-seq for time-gated CRISPR screening.</div>
   </div>
   <div class="publication">
