@@ -11,7 +11,7 @@ permalink: /resume/
     <div class="pub-title">Associate Research Scientist</div>
     <div class="pub-authors">Woappi Lab (SRSP), Columbia University</div>
     <div class="pub-venue">Oct 2025 – Jun 2026</div>
-    <div class="resume-description">Developing highly multiplexed CRISPR screens to investigate mammalian regeneration in skin wounds. Worked on RESTRICT-seq for time-gated CRISPR screening.</div>
+    <div class="resume-description">Developing cell-type multiplexed CRISPR screens to investigate mammalian regeneration in skin wounds. Worked on RESTRICT-seq for time-gated CRISPR screening.</div>
   </div>
   <div class="publication">
     <div class="pub-title">Postdoctoral Researcher</div>
@@ -101,7 +101,6 @@ permalink: /resume/
   <ul>
     <li><a href="{{ '/general/2026/02/06/music-albums.html' | relative_url }}" class="secret-link">Classical music & piano</a></li>
     <li>Hiking & photography</li>
-    <li>Cats & dogs</li>
     <li>Stand-up comedy</li>
     <li>Art films</li>
   </ul>
