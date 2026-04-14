@@ -103,5 +103,6 @@ permalink: /resume/
     <li>Hiking & photography</li>
     <li>Stand-up comedy</li>
     <li>Art films</li>
+    <li>Ancient history</li>
   </ul>
 </div>
