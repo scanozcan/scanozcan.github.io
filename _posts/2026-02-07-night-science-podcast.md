@@ -123,6 +123,27 @@ categories: general
   <div class="publication-item">
     <div class="publication">
       <div class="pub-title">
+        57 | George Church and shooting for the stars
+        <span class="podcast-icons">
+          <a href="https://podcasts.apple.com/us/podcast/george-church-and-shooting-for-the-stars/id1563415749?i=1000653894878" style="text-decoration: none; color: inherit;" title="Listen on Apple Podcasts" class="podcast-icon">
+            <i class="fas fa-podcast"></i>
+          </a>
+          <a href="https://open.spotify.com/episode/1b1kwfIbZfMgINXelcrGAa" style="text-decoration: none; color: inherit;" title="Listen on Spotify" class="spotify-pod-icon">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
+          </a>
+        </span>
+      </div>
+      <div class="pub-authors">Itai Yanai & Martin Lercher ft. George Church</div>
+      <div class="pub-venue">Night Science, Apr 29, 2024 · 36 min</div>
+      <div class="pub-links">
+        <span style="font-weight: normal;">Harvard geneticist and synthetic biology pioneer George Church discusses embracing outlier ideas, taking calculated risks, and the philosophy that you can change the world as long as you don't care who gets the credit — shoot for the stars, maybe you'll hit the moon.</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="publication-item">
+    <div class="publication">
+      <div class="pub-title">
         60 | Venki Ramakrishnan and the secrets of doing science over tea
         <span class="podcast-icons">
           <a href="https://podcasts.apple.com/us/podcast/night-science/id1563415749?i=1000660773863" style="text-decoration: none; color: inherit;" title="Listen on Apple Podcasts" class="podcast-icon">
