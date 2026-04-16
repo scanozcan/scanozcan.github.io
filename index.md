@@ -11,7 +11,7 @@ permalink: /
 <div class="bio-section">
   <div class="bio-text" markdown="1">
 
-I'm a biologist interested in how cells make decisions during tissue repair and in cancer. Currently at **[Columbia University](https://www.columbia.edu)**<!-- at the **[SRSP Lab](https://woappilab.com)** -->, I use highly multiplexed CRISPR screens to dissect the genetic programs driving mammalian skin wound regeneration. My background also spans cancer metabolism, chromosomal instability, and epigenetic regulation of stem cell differentiation.
+I'm a biologist interested in how cells make decisions during tissue repair and in cancer. Currently at **[Columbia University](https://www.columbia.edu)**<!-- at the **[SRSP Lab](https://woappilab.com)** -->, I use cell-type multiplexed CRISPR screens to dissect the genetic programs driving regeneration in mammalian skin wound healing. My background also spans cancer metabolism, chromosomal instability, and epigenetic regulation of stem cell differentiation.
 
 I love working with plasmids and DNA sequences! I also enjoy exploring diverse datasets and trying to find connections and biological underlying reasons in data. I'm increasingly interested in applying evolutionary game theory to understand cellular decision-making and cell-cell communication in cancer and tissue biology.
 
