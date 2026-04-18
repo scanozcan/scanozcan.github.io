@@ -34,6 +34,22 @@
   links:
     pdf: "#"
 
+- title: "Genomic locus proteomics identifies transcriptional regulation of ATP7B"
+  authors: "Altay B, Acar A, Sergi B, Ozcan SC et al."
+  venue: "Research"
+  year: 2027
+  type: currents
+  links:
+    pdf: "#"
+
+- title: "Characterization and targeting of taxane and platinum treatment double-resistant prostate cancer cells"
+  authors: "Sergi B, Yuksel N, Ozcan SC et al."
+  venue: "Research"
+  year: 2027
+  type: currents
+  links:
+    pdf: "#"
+
 
 # Publications data file for Jekyll site
 # Organized by type: article, preprint, review, currents, congress
