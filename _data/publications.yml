@@ -42,9 +42,9 @@
   links:
     pdf: "#"
 
-- title: "Characterization and targeting of taxane and platinum treatment double-resistant prostate cancer cells"
-  authors: "Sergi B, Yuksel N, Ozcan SC et al."
-  venue: "Research"
+- title: "GLproxScape: spatial deconvolution of genomic locus proximity-proteomics data into transcription-factor and chromatin-factor binding zone predictions at high resolution"
+  authors: "Ozcan SC et al."
+  venue: "Software"
   year: 2027
   type: currents
   links:
