@@ -42,10 +42,10 @@
   links:
     pdf: "#"
 
-- title: "GLproxScape: spatial deconvolution of genomic locus proximity-proteomics data into chromatin binding zone predictions at high resolution"
+- title: "GLproxScape: spatial deconvolution of genomic locus proximity proteomics into chromatin landscape predictions"
   authors: "Ozcan SC et al."
   venue: "Software"
-  year: 2027
+  year: 2026
   type: currents
   links:
     pdf: "#"
