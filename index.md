@@ -6,7 +6,7 @@ permalink: /
 
 # Selahattin Can Özcan
 
-### Cancer Biology | Functional Genomics & Proteomics | Regeneration | Systems Biology
+### Cancer Biology | Functional Genomics & Proteomics | Systems Biology
 
 <div class="bio-section">
   <div class="bio-text" markdown="1">
