@@ -66,7 +66,6 @@ permalink: /resume/
     <ul>
       <li>Cancer biology & metabolism</li>
       <li>Chromosomal instability</li>
-      <li>Mammalian regeneration</li>
       <li>Functional genomics</li>
       <li>Evolutionary game theory</li>
       <li>Centrosome biology</li>
@@ -100,8 +99,8 @@ permalink: /resume/
 <div class="skill-box skill-box-hobby" style="max-width: 300px;">
   <ul>
     <li><a href="{{ '/general/2026/02/06/music-albums.html' | relative_url }}" class="secret-link">Classical music & piano</a></li>
-    <li>Hiking & photography</li>
     <li>Stand-up comedy</li>
+    <li>Hiking & photography</li>
     <li>Art films</li>
     <li>Ancient history</li>
   </ul>
