@@ -13,6 +13,11 @@
         <i class="ai ai-doi"></i>
       </a>
     {% endif %}
+    {% if pub.links.github and pub.links.github != "#" %}
+      <a href="{{ pub.links.github }}" class="pub-icon-link" title="GitHub" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    {% endif %}
     {% if pub.links.code and pub.links.code != "#" %}
       <a href="{{ pub.links.code }}" class="pub-icon-link" title="Code">
         <i class="fas fa-code"></i>

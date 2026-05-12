@@ -49,6 +49,7 @@
   type: currents
   links:
     pdf: "#"
+    github: "https://github.com/scanozcan/GLproxScape"
 
 
 # Publications data file for Jekyll site
