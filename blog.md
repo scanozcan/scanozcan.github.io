@@ -19,6 +19,11 @@ permalink: /blog/
             <i class="ai ai-doi"></i>
           </a>
         {% endif %}
+        {% if post.github %}
+          <a href="{{ post.github }}" class="pub-icon-link" title="GitHub" target="_blank" rel="noopener">
+            <i class="fab fa-github"></i>
+          </a>
+        {% endif %}
       </div>
       <div class="pub-venue">{{ post.date | date: "%b %-d, %Y" }}</div>
     </div>
