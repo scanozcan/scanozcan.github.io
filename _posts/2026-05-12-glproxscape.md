@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GLproxScape: Spatial Deconvolution of Genomic Locus Proteomics"
+title: "GLproxScape: Spatial deconvolution of genomic locus proteomics"
 date: 2026-05-12
 categories: news
 published: true
