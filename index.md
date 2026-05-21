@@ -6,14 +6,14 @@ permalink: /
 
 # Selahattin Can Özcan
 
-### Cancer Biology | Functional Genomics & Proteomics | Systems Biology
+### Cancer Biology | Functional Genomics & Proteomics | Cell Decision-Making
 
 <div class="bio-section">
   <div class="bio-text" markdown="1">
 
-I'm a biologist interested in how cells make decisions during tissue repair and in cancer. Currently at **[Columbia University](https://www.columbia.edu)**<!-- at the **[SRSP Lab](https://woappilab.com)** -->, I use cell-type multiplexed CRISPR screens to dissect the genetic programs driving regeneration in mammalian skin wound healing. My background also spans cancer metabolism, chromosomal instability, and epigenetic regulation of stem cell differentiation.
+I'm a biologist trying to understand how cells make decisions — in cancer, and in tissue repair. Currently at **[Columbia University](https://www.columbia.edu)**<!-- at the **[SRSP Lab](https://woappilab.com)** -->, I design and use cell-type multiplexed CRISPR screens to dissect the genetic programs driving regeneration in mammalian skin wound healing. My research has also moved through cancer metabolism, chromosomal instability, and epigenetic regulation of stem cell differentiation — and I've built computational tools along the way to find better ways to analyze the genomic locus proteomics data.
 
-I love working with plasmids and DNA sequences! I also enjoy exploring diverse datasets and trying to find connections and biological underlying reasons in data. I'm increasingly interested in applying evolutionary game theory to understand cellular decision-making and cell-cell communication in cancer and tissue biology.
+I'm interested in the molecular logic of cell decision-making — the pathways and connections that determine why a cell chooses one fate over another, why the same perturbation leads to different outcomes in different tissues. Evolutionary game theory appeals to me as a formal framework for thinking about these decisions. What I enjoy most is the moment scattered data — screen hits, omics signals — start to form a coherent biological story.
 
   </div>
   <img src="{{ '/assets/images/profile.png' | relative_url }}" alt="Profile Photo" class="profile-photo">
