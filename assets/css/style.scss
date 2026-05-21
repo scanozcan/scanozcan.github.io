@@ -755,3 +755,9 @@ a.back-link:active {
     background-color: rgba(251, 191, 36, 0.1);
   }
 }
+
+// Theme-aware logo switching
+.theme-logo-light { display: inline-block; }
+.theme-logo-dark  { display: none; }
+[data-theme="dark"] .theme-logo-light { display: none; }
+[data-theme="dark"] .theme-logo-dark  { display: inline-block; }
