@@ -1,6 +1,9 @@
 # Publications data file
 # Types: unpublished, preprint, article, review
 
+# Publications data file for Jekyll site
+# Organized by type: article, preprint, review, currents, congress
+
 # Currently working on
 - title: "Stress-driven strategic games in cancer"
   authors: "Ozcan SC"
@@ -42,18 +45,15 @@
   links:
     pdf: "#"
 
-- title: "GLproxScape: spatial deconvolution of genomic locus proximity proteomics into chromatin landscape predictions"
+- title: "GLproxScape reconstructs spatial chromatin occupancy landscapes from tiled genomic locus proteomics"
   authors: "Ozcan SC et al."
-  venue: "Software"
+  venue: "Software, Research"
   year: 2026
   type: currents
   links:
     pdf: "#"
     github: "https://github.com/scanozcan/GLproxScape"
 
-
-# Publications data file for Jekyll site
-# Organized by type: article, preprint, review, currents, congress
 
 # Research Articles
 - type: "article"
