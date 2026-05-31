@@ -6,7 +6,7 @@ permalink: /
 
 # Selahattin Can Özcan
 
-### Cancer Biology | Functional Genomics & Proteomics | Cell Decision-Making
+### Cancer Biology | Functional Genomics & Proteomics | Adaptive Mechanisms
 
 <div class="bio-section">
   <div class="bio-text" markdown="1">
