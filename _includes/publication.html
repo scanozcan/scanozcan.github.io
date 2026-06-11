@@ -2,6 +2,9 @@
   <div class="pub-title">{{ pub.title }}</div>
   <div class="pub-authors">{{ pub.authors | replace: "Ozcan SC", "<strong>Ozcan SC</strong>" }}</div>
   <div class="pub-venue">{{ pub.venue }}, {{ pub.year }}</div>
+  {% if pub.status %}
+    <div class="pub-status">{{ pub.status }}</div>
+  {% endif %}
   <div class="pub-icons">
     {% if pub.links.pdf and pub.links.pdf != "#" and pub.type != "preprint" %}
       <a href="{{ pub.links.pdf }}" class="pub-icon-link" title="PDF" target="_blank" rel="noopener">

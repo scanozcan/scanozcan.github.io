@@ -234,6 +234,17 @@ pre, code {
   margin-bottom: 0.5rem;
 }
 
+.pub-status {
+  display: inline-block;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  background: var(--code-bg, rgba(127, 127, 127, 0.12));
+  border-radius: 4px;
+  padding: 0.1rem 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
 .pub-links {
   font-size: 0.85rem;
 
