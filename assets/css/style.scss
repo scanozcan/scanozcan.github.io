@@ -235,13 +235,9 @@ pre, code {
 }
 
 .pub-status {
-  display: inline-block;
-  font-size: 0.8rem;
-  font-weight: 600;
-  color: var(--text-secondary);
-  background: var(--code-bg, rgba(127, 127, 127, 0.12));
-  border-radius: 4px;
-  padding: 0.1rem 0.5rem;
+  font-size: 0.9rem;
+  font-style: italic;
+  color: var(--text-muted);
   margin-bottom: 0.5rem;
 }
 
