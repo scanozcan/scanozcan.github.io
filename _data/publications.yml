@@ -45,16 +45,6 @@
   links:
     pdf: "#"
 
-- title: "GLproxScape reconstructs spatial chromatin occupancy landscapes from tiled genomic locus proteomics"
-  authors: "Ozcan SC et al."
-  venue: "Software, Research"
-  year: 2026
-  type: currents
-  links:
-    pdf: "#"
-    github: "https://github.com/scanozcan/GLproxScape"
-
-
 # Research Articles
 - type: "article"
   title: "Stress adaptation pathways and HA-CD44 signaling maintain the survival of pancreatic cancer cells with centrosome amplification"
@@ -176,6 +166,16 @@
     doi: "https://doi.org/10.1088/1742-6596/2191/1/012003"
 
 # Pre-prints
+- type: "preprint"
+  title: "GLproxScape reconstructs spatial chromatin occupancy landscapes from tiled genomic locus proteomics"
+  authors: "Ozcan SC et al."
+  venue: "bioRxiv"
+  year: 2026
+  links:
+    pdf: "https://www.biorxiv.org/content/10.64898/2026.06.29.735243v1"
+    doi: "https://doi.org/10.64898/2026.06.29.735243"
+    github: "https://github.com/scanozcan/GLproxScape"
+
 - type: "preprint"
   title: "Proximity labeling reveals cell cycle-specific NEK2 interactions and a regulatory axis controlling NUSAP1 stability"
   authors: "Cicek E, Ozcan SC, Kanevetci B, Kalkan B, Ozkan NE, Ozlu N, Acilan C"
