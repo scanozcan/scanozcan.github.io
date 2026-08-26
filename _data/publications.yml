@@ -5,14 +5,6 @@
 # Organized by type: article, preprint, review, currents, congress
 
 # Currently working on
-- title: "Stress-driven strategic games in cancer"
-  authors: "Ozcan SC"
-  venue: "Review, Perspective"
-  year: 2026
-  type: currents
-  links:
-    pdf: "/assets/files/Stress_adaptation_as_evolutionary_game_switch_strategies_in_cancer.pdf"
-
 - title: "An epigenome targeted CRISPR screen identifies key stage-specific determinants of human erythropoiesis"
   authors: "Goksel E, Ozcan SC et al."
   venue: "Research"
@@ -132,6 +124,16 @@
     doi: "https://doi.org/10.1038/cddis.2014.292"
 
 # Review Articles
+- type: "review"
+  title: "Stress-driven strategic games in cancer"
+  authors: "Ozcan SC"
+  venue: "BioSystems"
+  year: 2026
+  pages: "105929"
+  links:
+    pdf: "/assets/files/Stress_adaptation_as_evolutionary_game_switch_strategies_in_cancer.pdf"
+    doi: "https://doi.org/10.1016/j.biosystems.2026.105929"
+
 - type: "review"
   title: "Keep Calm and Carry on with Extra Centrosomes"
   authors: "Kalkan BM, Ozcan SC, Quintyne NJ, Reed SL, Acilan C"
