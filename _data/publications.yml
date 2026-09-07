@@ -196,7 +196,7 @@
   status: "in revision at Nature Communications"
   links:
     pdf: "https://www.biorxiv.org/content/10.1101/2025.09.17.676440v1"
-    doi: "https://doi.org/10.1101/2025.09.17.676440"
+    doi: "https://www.biorxiv.org/content/10.1101/2025.09.17.676440v1?versioned=true"
 
 # PhD Thesis
 - type: "thesis"
