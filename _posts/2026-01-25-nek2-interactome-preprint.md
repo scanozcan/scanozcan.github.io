@@ -3,6 +3,7 @@ layout: post
 title: "Preprint: Cell-cycle-dependent interactome of Nek2"
 date: 2026-01-25
 categories: news
+tags: [publications]
 doi: "https://doi.org/10.64898/2026.01.25.701545"
 ---
 

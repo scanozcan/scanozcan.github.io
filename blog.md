@@ -24,6 +24,9 @@ permalink: /blog/
             <i class="fab fa-github"></i>
           </a>
         {% endif %}
+        {% for tag in post.tags %}
+          <span class="news-tag tag-{{ tag | slugify }}">{{ tag }}</span>
+        {% endfor %}
       </div>
       <div class="pub-venue">{{ post.date | date: "%b %-d, %Y" }}</div>
     </div>

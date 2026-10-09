@@ -3,6 +3,7 @@ layout: post
 title: "Preprint: Stress adaptation and centrosome amplification in pancreatic cancer"
 date: 2026-01-24
 categories: news
+tags: [publications]
 doi: "https://doi.org/10.64898/2026.01.24.701523"
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: "Preprint: GLproxScape spatial deconvolution of genomic locus proteomics"
 date: 2026-07-03
 categories: news
+tags: [publications]
 doi: "https://doi.org/10.64898/2026.06.29.735243"
 ---
 

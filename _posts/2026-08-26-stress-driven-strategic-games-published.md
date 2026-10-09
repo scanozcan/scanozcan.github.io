@@ -3,6 +3,7 @@ layout: post
 title: "Published: Stress-driven strategic games in cancer"
 date: 2026-08-26
 categories: news
+tags: [publications]
 doi: "https://doi.org/10.1016/j.biosystems.2026.105929"
 ---
 

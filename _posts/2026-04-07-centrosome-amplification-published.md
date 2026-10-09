@@ -3,6 +3,7 @@ layout: post
 title: "Published: Stress adaptation and centrosome amplification in pancreatic cancer"
 date: 2026-04-07
 categories: news
+tags: [publications]
 doi: "https://link.springer.com/article/10.1186/s12964-026-02865-5"
 ---
 

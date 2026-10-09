@@ -3,6 +3,7 @@ layout: post
 title: "GLproxScape: Spatial deconvolution of genomic locus proteomics"
 date: 2026-05-31
 categories: news
+tags: [tools]
 published: true
 github: "https://github.com/scanozcan/GLproxScape"
 doi: "https://doi.org/10.64898/2026.06.29.735243"
